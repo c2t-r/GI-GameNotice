@@ -36,6 +36,6 @@ jobs:
             git add README.md
             git config user.name github-actions[bot]
             git config user.email action@github.com
-            git commit -m "Update recent Notice"
+            git commit -m "Update latest notice"
             git push
           fi

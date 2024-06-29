@@ -101,7 +101,7 @@ async def game(name, lang) -> tuple[bool, list[dict]]:
             text = unHtml(ann_content["content"])
             for s in splitbylength(text, 1000):
                 embed["fields"].append({ "name": "", "value": s })
-        contents.append({ "username": name, "embeds": [embed] })
+        contents.append({ "username": name+f' No.{ann["ann_id"]}', "embeds": [embed] })
 
 
     return True, reversed(contents)
