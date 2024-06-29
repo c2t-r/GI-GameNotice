@@ -12,5 +12,5 @@ LANGUAGE = ja // en, ja, es....
 4. Enjoy!
 
 ## Recent Notice
-<id latest="1719593000">
+<id latest="20600">
 <start><end>

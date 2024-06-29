@@ -62,16 +62,11 @@ async def game(name, lang) -> tuple[bool, list[dict]]:
         return False, []
     list_obj = response.json()
 
-    ann_list = sorted(flatten(list_obj["data"]["list"]), key=lambda x: unix_time(x["start_time"]), reverse=True)
+    ann_list = sorted(flatten(list_obj["data"]["list"]), key=lambda x: x["ann_id"], reverse=True)
 
     saved_data = data.fetch()
 
-    for i in ann_list:
-        __t = unix_time(i["start_time"])
-        if unix_time(i["start_time"]) > saved_data:
-            pass
-
-    ann_list = [i for i in ann_list if unix_time(i["start_time"]) > saved_data]
+    ann_list = [i for i in ann_list if i["ann_id"] > saved_data]
     if not ann_list: return True, []
 
     url = f'https://sg-{gid}-api-static.hoyoverse.com/common/{gid}_global/announcement/api/getAnnContent?game={gid}&game_biz={gid}_global&lang={lang}&bundle_id={gid}_global&platform=pc&region=os_asia&level=1'
@@ -100,7 +95,7 @@ async def game(name, lang) -> tuple[bool, list[dict]]:
             embed["fields"] = []
 
             if not is_saved:
-                data.save(unix_time(ann_list[0]["start_time"]), ann_content)
+                data.save(ann_list[0]["ann_id"], ann_content)
                 is_saved = True
 
             text = unHtml(ann_content["content"])
