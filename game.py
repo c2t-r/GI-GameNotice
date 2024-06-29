@@ -29,9 +29,12 @@ def splitbylength(text: str, length: int):
         if _t: _list.append(_t)
         return _list
 
+def embUrl(text: str):
+    return sub(r'<a href=".*?\(\'(.+?)\'\);">(.+?)</a>', "[\\2](\\1)", text) # embed url
+
 def unHtml(html):
     unhtml = html
-    unhtml = sub(r'<a href=".*?\(\'(.+?)\'\);">(.+?)</a>', "[\\2](\\1)", unhtml) # embed url
+    unhtml = embUrl(unhtml)
     unhtml = sub(r'<[^\/]+?\s.*?>', "", unhtml)
     unhtml = sub(r'(<\/.*?>)+', "\n", unhtml)
     unhtml = sub(r'\\n(\\n)+', "\n", unhtml)
