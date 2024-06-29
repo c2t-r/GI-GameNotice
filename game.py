@@ -1,49 +1,7 @@
 import requests
-from re import sub, split
 from datetime import datetime
-from html import unescape as unhtmlescape
+import util
 import data
-
-def unix_time(time_str):
-    dt = datetime.strptime(time_str, '%Y-%m-%d %H:%M:%S')
-    return int(dt.timestamp())
-
-def flatten(_list: list):
-    return [xi for i in _list for xi in i["list"]]
-
-def find(_list: list, func):
-    return next(filter(func, _list), None)
-
-def splitbylength(text: str, length: int):
-    s = split(r'(.+?[！。\n])', text)
-    _list = []
-    _t = ""
-    if len(text) < 1024:
-        return [text]
-    else:
-        for i in list(range(len(s))):
-            if len(_t) + len(s[i]) > length:
-                _list.append(_t)
-                _t = ""
-            _t += s[i]
-        if _t: _list.append(_t)
-        return _list
-
-def embUrl(text: str):
-    return sub(r'<a href=".*?\(\'(.+?)\'\);">(.+?)</a>', "[\\2](\\1)", text) # embed url
-
-def unHtml(html):
-    unhtml = html
-    unhtml = embUrl(unhtml)
-    unhtml = sub(r'<[^\/]+?\s.*?>', "", unhtml)
-    unhtml = sub(r'(<\/.*?>)+', "\n", unhtml)
-    unhtml = sub(r'\\n(\\n)+', "\n", unhtml)
-    unhtml = sub(r'&lt;.*?&gt;', "", unhtml) # unrich text
-    unhtml = sub(r'〓\n', "〓\n\n", unhtml)
-    unhtml = sub(r'\n〓', "\n\n〓", unhtml)
-    unhtml = unhtml.replace("<br>", "\n")
-    unhtml = unhtmlescape(unhtml)
-    return unhtml
 
 async def game(name, lang) -> tuple[bool, list[dict]]:
     gid = "hk4e"
@@ -65,7 +23,7 @@ async def game(name, lang) -> tuple[bool, list[dict]]:
         return False, []
     list_obj = response.json()
 
-    ann_list = sorted(flatten(list_obj["data"]["list"]), key=lambda x: x["ann_id"], reverse=True)
+    ann_list = sorted(util.flatten(list_obj["data"]["list"]), key=lambda x: x["ann_id"], reverse=True)
 
     saved_data = data.fetch()
 
@@ -91,7 +49,7 @@ async def game(name, lang) -> tuple[bool, list[dict]]:
             },
             "timestamp": ann["start_time"]
         }
-        ann_content = find(content_list, lambda x: x["ann_id"] == ann["ann_id"])
+        ann_content = util.find(content_list, lambda x: x["ann_id"] == ann["ann_id"])
         if ann_content:
             embed["title"] = ann_content["title"]
             embed["image"]["url"] = ann_content["banner"]
@@ -101,8 +59,8 @@ async def game(name, lang) -> tuple[bool, list[dict]]:
                 data.save(ann_list[0]["ann_id"], ann_content)
                 is_saved = True
 
-            text = unHtml(ann_content["content"])
-            for s in splitbylength(text, 1000):
+            text = util.unHtml(ann_content["content"])
+            for s in util.splitbylength(text, 1000):
                 embed["fields"].append({ "name": "", "value": s })
         contents.append({ "username": name+f' No.{ann["ann_id"]}', "embeds": [embed] })
 
