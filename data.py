@@ -1,6 +1,6 @@
 from re import findall, sub
 from html import unescape as unhtmlescape
-from game import embUrl
+import util
 
 path = "README.md"
 
@@ -15,6 +15,6 @@ def save(unixtime: int, content: dict):
         readme = f.read()
     readme = sub(r'<id latest="\d+?">', f'<id latest="{unixtime}">', readme)
     html = unhtmlescape(content["content"])
-    readme = sub(r'<start>\n*[\s\S]*?\n*<end>', f'<start>\n\n### {content["title"]}\n<img src="{content["banner"]}">\n{embUrl(html)}\n\n<end>', readme)
+    readme = sub(r'<start>\n*[\s\S]*?\n*<end>', f'<start>\n\n### {content["title"]}\n<img src="{content["banner"]}">\n{util.embUrl(html)}\n\n<end>', readme)
     with open(path, "w", encoding="utf-8") as f:
         f.write(readme)
