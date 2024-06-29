@@ -42,8 +42,7 @@ def unHtml(html):
     unhtml = unhtmlescape(unhtml)
     return unhtml
 
-async def game(name) -> tuple[bool, list[dict]]:
-    lang = "ja"
+async def game(name, lang) -> tuple[bool, list[dict]]:
     gid = "hk4e"
 
     today = datetime.now()

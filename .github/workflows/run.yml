@@ -23,12 +23,12 @@ jobs:
         run: pip install -r requirements.txt
 
       - name: Save settings.json
-        run: echo "{ \"name\":\"${{ secrets.NAME }}\", \"webhook\":\"${{ secrets.WEBHOOK }}\" }" > settings.json
+        run: echo "{ \"name\":\"${{ secrets.NAME }}\", \"webhook\":\"${{ secrets.WEBHOOK }}\", \"language\":\"${{ secrets.LANGUAGE }}\" }" > settings.json
 
       - name: Execute main script
         run: python3 main.py
 
-      - name: Commit updated files
+      - name: Commit update
         run: |
           git add -N README.md
           if ! git diff --exit-code --quiet
@@ -36,6 +36,6 @@ jobs:
             git add README.md
             git config user.name github-actions[bot]
             git config user.email action@github.com
-            git commit -m "Commit updated files"
+            git commit -m "Update recent Notice"
             git push
           fi

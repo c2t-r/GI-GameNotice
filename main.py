@@ -20,7 +20,7 @@ def main(m):
     timeStr = now.isoformat(" ", timespec="seconds")
 
     print(timeStr, f'running {m["name"]}')
-    status, content = asyncio.run(game(m["name"]))
+    status, content = asyncio.run(game(m["name"], m["language"]))
 
     if not status:
         print(timeStr, f'failed to run {m["name"]}')
