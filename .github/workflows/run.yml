@@ -1,0 +1,41 @@
+name: GI-GameNotice System
+
+on:
+  schedule:
+    - cron: "00 * * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout data repo
+        uses: actions/checkout@v3
+
+      - name: Setup Python 3.11
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.11"
+          cache: "pip"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Save settings.json
+        run: echo "{ \"name\":\"${{ secrets.NAME }}\", \"webhook\":\"${{ secrets.WEBHOOK }}\" }" > settings.json
+
+      - name: Execute main script
+        run: python3 main.py
+
+      - name: Commit updated files
+        run: |
+          git add -N README.md
+          if ! git diff --exit-code --quiet
+          then
+            git add README.md
+            git config user.name github-actions[bot]
+            git config user.email action@github.com
+            git commit -m "Commit updated files"
+            git push
+          fi
