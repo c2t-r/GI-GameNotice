@@ -32,8 +32,7 @@ def embUrl(text: str):
 
 def unHtml(html):
     unhtml = html
-    unhtml = embUrl(unhtml)
-    unhtml = sub(r'<a href=".*?\(\'(.+?)\'\);">(.+?)</a>', "[\\2](\\1)", unhtml)
+    unhtml = sub(r'<a href=".*?\(\'(.+?)\'\);">(.+?)</a>', "[\\2](\\1)", unhtml) # embed url
     unhtml = sub(r'<[^\/]+?\s.*?>', "", unhtml)
     unhtml = sub(r'(<\/.*?>)+', "\n", unhtml)
     unhtml = sub(r'\\n(\\n)+', "\n", unhtml)
