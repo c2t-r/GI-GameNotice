@@ -2,14 +2,13 @@
 
 ## Usage
 1. Fork this repo
-2. edit following json and add it to `secret.SETTING_DATA`
-```json
-{
-    "name": "GI-GameNotice",
-    "webhook": "https://discord.com/api/webhooks//"
-}
+2. Add secrets
+```ini
+NAME = GI-GameNotice
+WEBHOOK = https://discord.com/api/webhooks//
 ```
-3. enjoy!
+3. Set `Workflow permissions` to `Read and write permissions`
+4. Enjoy!
 
 ## Recent Notice
 <id latest="1719568800">
