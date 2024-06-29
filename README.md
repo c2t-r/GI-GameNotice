@@ -11,6 +11,8 @@ LANGUAGE = ja // en, ja, es....
 3. Set `Workflow permissions` to `Read and write permissions`
 4. Enjoy!
 
+![image](https://github.com/c2t-r/GI-GameNotice/assets/80561604/24ec6182-cd99-4969-ab59-1d65c886077a)
+
 ## Latest Notice
 <id latest="20604">
 <start>
