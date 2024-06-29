@@ -66,6 +66,11 @@ async def game(name, lang) -> tuple[bool, list[dict]]:
 
     saved_data = data.fetch()
 
+    for i in ann_list:
+        __t = unix_time(i["start_time"])
+        if unix_time(i["start_time"]) > saved_data:
+            pass
+
     ann_list = [i for i in ann_list if unix_time(i["start_time"]) > saved_data]
     if not ann_list: return True, []
 
@@ -95,7 +100,7 @@ async def game(name, lang) -> tuple[bool, list[dict]]:
             embed["fields"] = []
 
             if not is_saved:
-                data.save(unix_time(ann_list[0]["start_time"]), ann_content["title"], unhtmlescape(ann_content["content"]))
+                data.save(unix_time(ann_list[0]["start_time"]), ann_content)
                 is_saved = True
 
             text = unHtml(ann_content["content"])
