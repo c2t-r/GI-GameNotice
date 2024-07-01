@@ -31,9 +31,11 @@ jobs:
       - name: Commit update
         run: |
           git add -N README.md
+          git add -N log.json
           if ! git diff --exit-code --quiet
           then
             git add README.md
+            git add log.json
             git config user.name github-actions[bot]
             git config user.email action@github.com
             git commit -m "Update latest notice"

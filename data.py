@@ -1,20 +1,39 @@
-from re import findall, sub
+from os.path import isfile
+from json import load, dump
+from re import sub
 from html import unescape as unhtmlescape
 import util
 
-path = "README.md"
+log_path = "log.json"
+readme_path = "README.md"
 
-def fetch() -> int:
-    with open(path, "r", encoding="utf-8") as f:
-        readme = f.read()
-    latest = findall(r'<id latest="(\d+?)">', readme)[0]
-    return int(latest)
+if not isfile(log_path):
+    with open(log_path, "w", encoding="utf-8") as f:
+        f.write("{}")
 
-def save(unixtime: int, content: dict):
-    with open(path, "r", encoding="utf-8") as f:
+def hasAnn(ann: dict) -> bool:
+    with open(log_path, "r", encoding="utf-8") as f:
+        log = load(f)
+    if str(ann["ann_id"]) in log: return True
+    else: return False
+
+def save(ann: dict):
+    with open(log_path, "r", encoding="utf-8") as f:
+        log = load(f)
+    log[str(ann["ann_id"])] = {
+        "title": ann["title"],
+        "banner": ann["banner"],
+        "start_time": ann["start_time"],
+        "end_time": ann["end_time"],
+        "type": ann["type"]
+    }
+    with open(log_path, "w", encoding="utf-8") as f:
+        dump(log, f, indent=2, ensure_ascii=False)
+
+def update(content: dict):
+    with open(readme_path, "r", encoding="utf-8") as f:
         readme = f.read()
-    readme = sub(r'<id latest="\d+?">', f'<id latest="{unixtime}">', readme)
     html = unhtmlescape(content["content"])
     readme = sub(r'<start>\n*[\s\S]*?\n*<end>', f'<start>\n\n### {content["title"]}\n<img src="{content["banner"]}">\n{util.embUrl(html)}\n\n<end>', readme)
-    with open(path, "w", encoding="utf-8") as f:
+    with open(readme_path, "w", encoding="utf-8") as f:
         f.write(readme)
