@@ -17,11 +17,11 @@ LANGUAGE = ja // en, ja, es....
 ## Latest Notice
 <start>
 
-### HoYoLAB-「ログインボーナス」機能について
-<img src="https://sdk.hoyoverse.com/upload/ann/2022/12/06/1b24864522e48bf3736f1c1658083e28_8076710891181596635.png">
-<p style="white-space: pre-wrap;">親愛なる旅人さんへ</p><p style="white-space: pre-wrap;">HoYoLABの「ログインボーナス」機能をまだご利用いただいていない旅人さんは、ぜひご活用ください！</p><p style="white-space: pre-wrap;">
+### Ver.4.8特設ページ公開
+<img src="https://sdk.hoyoverse.com/upload/ann/2024/07/05/8c28e4054a8d90f71dd19d587389a859_6162463337067423287.jpg">
+<p style="white-space: pre-wrap;">親愛なる旅人さんへ</p><p style="white-space: pre-wrap; min-height: 1.5em;"></p><p style="white-space: pre-wrap;">Ver.4.8「陽夏！悪龍？童話の王国！」特設ページが公開されました！</p><p style="white-space: pre-wrap; min-height: 1.5em;"></p><p style="white-space: pre-wrap;">
 
-[詳細はこちら](https://act.hoyolab.com/ys/event/signin-sea-v3/index.html?act_id=e202102251931481&hyl_auth_required=true&hyl_presentation_style=fullscreen&utm_source=ingame&utm_medium=notice&utm_campaign=checkin&utm_id=2&lang=zh-cn&device_type=pc&game_version=OSRELWin3.8.0_R16698153_S16388687_D16388687&plat_type=pc)
-</p><p style="white-space: pre-wrap; min-height: 1.5em;"></p><p style="white-space: pre-wrap;">HoYoLAB-ツール-原神-ログインボーナスから、ログインボーナスの機能をご利用いただくことで、原石、モラ、大英雄の経験などのゲーム内報酬を毎日ゲットできます。</p><p style="white-space: pre-wrap;">「ログインボーナス」機能を初めて利用する旅人さんは、原石×100、モラ×10,000を獲得できます！</p><p style="white-space: pre-wrap; min-height: 1.5em;"></p><p style="white-space: pre-wrap;">〓利用期間〓</p><p style="white-space: pre-wrap;">期限なし</p><p style="white-space: pre-wrap; min-height: 1.5em;"></p>
+[>>>>Ver.4.8「陽夏！悪龍？童話の王国！」特設ページはこちら<<<<](https://act.hoyoverse.com/ys/event/e20240706preview-5y4ic7/index.html?game_biz=hk4e_global&sign_type=2&auth_appid=e20240706warm&authkey_ver=1&utm_source=ingame&utm_medium=notice)
+</p><p style="white-space: pre-wrap; min-height: 1.5em;"></p><p style="white-space: pre-wrap;">※ ゲーム内でイベントページを開いてシェアすると、モラ×20,000を獲得可能！</p><p style="white-space: pre-wrap; min-height: 1.5em;"></p><p style="white-space: pre-wrap; min-height: 1.5em;"></p>
 
 <end>

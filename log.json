@@ -152,5 +152,19 @@
     "start_time": "2024-07-03 05:00:01",
     "end_time": "2024-08-03 05:00:00",
     "type": 2
+  },
+  "3364": {
+    "title": "イベント・「地脈の奔流」：「蔵金の花」「啓示の花」2倍ドロップ！",
+    "banner": "https://sdk.hoyoverse.com/upload/ann/2022/12/07/e24a91ee6188a1e8504bbbff83dbacd3_6314272020046859382.jpg",
+    "start_time": "2024-07-06 12:00:00",
+    "end_time": "2024-07-15 03:59:59",
+    "type": 1
+  },
+  "20614": {
+    "title": "Ver.4.8特設ページ公開",
+    "banner": "https://sdk.hoyoverse.com/upload/ann/2024/07/05/8c28e4054a8d90f71dd19d587389a859_6162463337067423287.jpg",
+    "start_time": "2024-07-06 12:00:00",
+    "end_time": "2024-07-15 23:59:59",
+    "type": 2
   }
 }
