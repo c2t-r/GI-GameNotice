@@ -17,11 +17,8 @@ LANGUAGE = ja // en, ja, es....
 ## Latest Notice
 <start>
 
-### バージョン満足度アンケート調査実施中
-<img src="https://sdk.hoyoverse.com/upload/ann/2022/10/24/9f0daebffad38a55c60a1cd7c518d693_3451760669886321601.jpg">
-<p style="white-space: pre-wrap;">親愛なる旅人さんへ</p><p style="white-space: pre-wrap;">旅人の皆さんにより良いゲーム体験をご提供できるよう、アンケート調査をご用意いたしました。アンケートに回答すると報酬を獲得できます。</p><p style="white-space: pre-wrap; min-height: 1.5em;"></p><p style="white-space: pre-wrap;">〓アンケート調査期間〓</p><p style="white-space: pre-wrap;"><t class="t_gl">2024/07/12 10:00:00</t> - <t class="t_gl">2024/07/15 23:59:59</t></p><p style="white-space: pre-wrap; min-height: 1.5em;"></p><p style="white-space: pre-wrap;">〓アンケート調査の参加方法〓</p><p style="white-space: pre-wrap;">
-
-[クリックしてアンケートに回答](https://webstatic.hoyoverse.com/common/event/survey-user-v2/index.html?auth_appid=survey_CNn-jkV1qB-seXZlJUP2c9jilAAfA2aCGvwUuTFtGEwpX08&game_biz=hk4e_global&surveyId=24069&format=1&sign_type=2&authkey_ver=1)
-</p><p style="white-space: pre-wrap; min-height: 1.5em;"></p><p style="white-space: pre-wrap;">パイモンのメニュー画面を開く-メール-「バージョン満足度アンケート調査」-アンケート調査のリンクから、あるいはパイモンのメニュー画面を開く-アンケート調査-「バージョン満足度アンケート調査」を選ぶことで、アンケートに参加できます。どちらかの方法で、1回でもアンケートにご回答いただければ報酬の獲得が可能です。両方の方法で回答する必要はございません。</p><p style="white-space: pre-wrap; min-height: 1.5em;"></p><p style="white-space: pre-wrap;">アンケートは一度提出されると再記入できないため、慎重にご回答お願いいたします。</p><p style="white-space: pre-wrap;">旅人さんの貴重なご意見、心よりお待ちしております！</p>
+### Ver.4.8バージョンアップのお知らせ
+<img src="https://sdk.hoyoverse.com/upload/ann/2024/01/26/c24d6da5527f40502a98e54ac9b76add_4872287290990870550.jpg">
+<p style="white-space: pre-wrap;">親愛なる旅人さんへ</p><p style="white-space: pre-wrap;"><t class="t_gl">2024/07/17 06:00:00</t>にてバージョンアップのメンテナンスが行われる予定です。更新に関連するお知らせをご確認ください。</p><p style="white-space: pre-wrap; min-height: 1.5em;"></p><p style="white-space: pre-wrap;">実装予定の機能予告：</p><p style="white-space: pre-wrap;">Asia, Europe, Americaサーバーを利用のPS5™およびPS4™端末では、Ver.5.0から事前ダウンロード機能のテストが行われます。テスト開始後は、PS4™またはPS4™を起動した時、ディスクの容量が十分であれば、自動的に『原神』の事前ダウンロードが始まります。</p><p style="white-space: pre-wrap; min-height: 1.5em;"></p><details><summary>Ver.4.8バージョンアップのお知らせ</summary><div class="expansion-content"><p style="white-space: pre-wrap; min-height: 1.5em; text-align: center;"><img src="https://sdk.hoyoverse.com/upload/ann/2024/07/10/a4675b614f4a3819c65d73723529f51b_2577640037097729195.jpg" href="" style="vertical-align:middle;"></p></div></details><details><summary>事前ダウンロード開始</summary><div class="expansion-content"><p style="white-space: pre-wrap; min-height: 1.5em; text-align: center;"><img src="https://sdk.hoyoverse.com/upload/ann/2024/07/10/403126b648d282c18d6a08e87382adad_505052509890147403.jpg" href="" style="vertical-align:middle;"></p></div></details><p style="white-space: pre-wrap; min-height: 1.5em;"></p><p style="white-space: pre-wrap; min-height: 1.5em;"></p>
 
 <end>
