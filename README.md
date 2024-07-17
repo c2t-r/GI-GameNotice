@@ -17,8 +17,8 @@ LANGUAGE = ja // en, ja, es....
 ## Latest Notice
 <start>
 
-### Ver.4.8最新情報一覧
-<img src="">
-<p style="white-space: pre-wrap; min-height: 1.5em; text-align: center;"><img src="https://sdk.hoyoverse.com/upload/ann/2024/07/16/908dcbccbb19957cb02d395d2fc6dd4c_5476737676935075456.jpg" href="" style="vertical-align:middle;"></p><p style="white-space: pre-wrap; min-height: 1.5em; text-align: center;"><img src="https://sdk.hoyoverse.com/upload/ann/2024/07/16/e6e9ab4e9e5efc029225e652fba090ec_4623268125892385168.jpg" href="" style="vertical-align:middle;"><img src="https://sdk.hoyoverse.com/upload/ann/2024/07/16/085e2a4d3fd0401350bfa5221a986a0e_6076884789111584126.jpg" href="" style="vertical-align:middle;"></p>
+### アップデートと調整
+<img src="https://sdk.hoyoverse.com/upload/announcement/2020/11/11/5ec5dc80e2429e1dd38d35d56b08a04d_5453296487380915976.jpg">
+<p style="white-space: pre-wrap;">親愛なる旅人さんへ</p><p style="white-space: pre-wrap;">旅人の皆さんにより良いゲーム体験をご提供できるよう、皆さんのアドバイスに基づき、ゲーム内容の調整や不具合の修正を行いました。</p><p style="white-space: pre-wrap; min-height: 1.5em;"></p><p style="white-space: pre-wrap;">〓不具合詳細〓</p><p style="white-space: pre-wrap;">現在、キャラクター「檐宇遊猫・綺良々（草）」のコスチューム「麗しき怪傑」の立ち絵に一箇所誤りが存在しております。該当箇所はVer.5.0で修正される予定です。</p><p style="white-space: pre-wrap; min-height: 1.5em;"></p>
 
 <end>

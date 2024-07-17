@@ -257,5 +257,12 @@
     "start_time": "2024-07-16 18:00:00",
     "end_time": "2024-08-06 05:00:00",
     "type": 2
+  },
+  "20637": {
+    "title": "アップデートと調整",
+    "banner": "https://sdk.hoyoverse.com/upload/announcement/2020/11/11/5ec5dc80e2429e1dd38d35d56b08a04d_5453296487380915976.jpg",
+    "start_time": "2024-07-17 07:00:00",
+    "end_time": "2024-08-28 06:00:00",
+    "type": 2
   }
 }
