@@ -17,8 +17,14 @@ LANGUAGE = ja // en, ja, es....
 ## Latest Notice
 <start>
 
-### アップデートと調整
-<img src="https://sdk.hoyoverse.com/upload/announcement/2020/11/11/5ec5dc80e2429e1dd38d35d56b08a04d_5453296487380915976.jpg">
-<p style="white-space: pre-wrap;">親愛なる旅人さんへ</p><p style="white-space: pre-wrap;">旅人の皆さんにより良いゲーム体験をご提供できるよう、皆さんのアドバイスに基づき、ゲーム内容の調整や不具合の修正を行いました。</p><p style="white-space: pre-wrap; min-height: 1.5em;"></p><p style="white-space: pre-wrap;">〓不具合詳細〓</p><p style="white-space: pre-wrap;">現在、キャラクター「檐宇遊猫・綺良々（草）」のコスチューム「麗しき怪傑」の立ち絵に一箇所誤りが存在しております。該当箇所はVer.5.0で修正される予定です。</p><p style="white-space: pre-wrap; min-height: 1.5em;"></p>
+### Ver.4.8作品募集コンテスト開催中！
+<img src="https://sdk.hoyoverse.com/upload/ann/2024/07/12/da25b09978055475bed2fdc211a3d175_679850928008695907.jpg">
+<p style="white-space: pre-wrap;">親愛なる旅人さんへ</p><p style="white-space: pre-wrap;">『原神』Ver.4.8「陽夏！悪龍？童話の王国！」作品募集コンテストが開催されました。</p><p style="white-space: pre-wrap; min-height: 1.5em;"></p><p style="white-space: pre-wrap;">7月17日より、公式の作品募集コンテストページにアクセスし、Ver.4.8のコンテンツをテーマに、童話または夏関連の同人作品を描いたり、ストーリー関連またはマップ探索系の動画を作ったりすると、最大1,000ドルと5,000個の原石をゲットできるチャンス！</p><p style="white-space: pre-wrap;">詳細は公式の作品募集コンテストページよりご確認ください。</p><p style="white-space: pre-wrap;">
+
+[詳細を確認](https://hoyo.link/dxljFLAL)
+</p><p style="white-space: pre-wrap; min-height: 1.5em;"></p><p style="white-space: pre-wrap;">7月17日より、HoYoLABにアクセスし、原神エリアの公式作品募集コンテストからバージョン関連キャラ、イベント、新マップなどの攻略を投稿すると、コンテストに参加できます。受賞者には最大6,000個の原石や素敵なグッズなどの報酬をご用意しております！</p><p style="white-space: pre-wrap;">詳細はこちら：</p><p style="white-space: pre-wrap;">
+
+[詳細を確認](https://hoyo.link/egljFBAL)
+</p><p style="white-space: pre-wrap; min-height: 1.5em;"></p>
 
 <end>
