@@ -17,26 +17,8 @@ LANGUAGE = ja // en, ja, es....
 ## Latest Notice
 <start>
 
-### Ver.4.8の原神ツールが更新！
-<img src="https://sdk.hoyoverse.com/upload/ann/2024/07/17/63bb71bd52d286c60399f32285fef897_5806436125491084608.jpg">
-<p style="white-space: pre-wrap;">親愛なる旅人さんへ</p><p style="white-space: pre-wrap;">『原神』Ver.4.8がリリースされました。新しく開放されたマップ「シムランカ」で童話の王国の旅を始めましょう！旅人の皆さんにVer.4.8をより楽しんでいただくために、HoYoLABの原神ツールにも多くのアップデートを用意しました。</p><p style="white-space: pre-wrap; min-height: 1.5em;"></p><p style="white-space: pre-wrap;">| 戦績更新： イベント振り返りカテゴリーにVer.4.8のイベント戦績を新たに追加</p><p style="white-space: pre-wrap;">Ver.4.8テーマイベント「陽夏！悪龍？童話の王国！」の戦績が新たに表示されるようになりました。宝箱、ワープポイントなどのゲーム内イベントの情報、および各ミニゲームの戦績データを素早く確認できます。</p><p style="white-space: pre-wrap;">
-
-[>>戦績はこちらより<<](https://act.hoyolab.com/app/community-game-records-sea/index.html?bbs_auth_required=true&bbs_presentation_style=fullscreen&gid=2&utm_campaign=update&utm_content=battlechronicle&utm_id=2&utm_medium=notice&utm_source=ingame&v=108)
-</p><p style="white-space: pre-wrap; min-height: 1.5em;"></p><p style="white-space: pre-wrap;">| テイワットマップ：Ver.4.8新マップおよび関連のマップピンを追加しました。</p><p style="white-space: pre-wrap;">Ver.4.8では、新エリア「シムランカ」が追加されました。マップツールでも、新エリアのマップピンと関連情報が更新されます。</p><p style="white-space: pre-wrap;">また、マップツールの更新履歴では、旅人さんが最新情報をすぐに受け取れるよう、マップピン更新に関する説明を追加しました。</p><p style="white-space: pre-wrap;">
-
-[>>テイワットマップはこちらより<<](https://act.hoyolab.com/ys/app/interactive-map/index.html?bbs_presentation_style=no_header&utm_campaign=update&utm_content=map&utm_id=2&utm_medium=notice&utm_source=ingame#/map/2)
-</p><p style="white-space: pre-wrap; min-height: 1.5em;"></p><p style="white-space: pre-wrap;">| キャラクター育成ガイド：Ver.4.8のピックアップキャラの育成ガイドを追加しました。</p><p style="white-space: pre-wrap;">Ver.4.8のピックアップキャラクターの育成ガイドを追加しました（エミリエの育成ガイドは、8月6日に開放される期間限定祈願と同時に更新されます）。</p><p style="white-space: pre-wrap;">キャラクター育成素材、育成アドバイス、おすすめ編成、おすすめ聖遺物&武器などをまとめた育成攻略を確認できます。</p><p style="white-space: pre-wrap;">（育成アドバイスはコミュニティ内に投稿された攻略法から抜粋したもので、公式の立場を表すものではありません）</p><p style="white-space: pre-wrap;">
-
-[>>キャラクター育成ガイドはこちらより<<](https://wiki.hoyolab.com/pc/genshin/entry/4808?utm_campaign=update&utm_id=2&utm_medium=notice&utm_source=ingame)
-</p><p style="white-space: pre-wrap; min-height: 1.5em;"></p><p style="white-space: pre-wrap;">| HoYoWiki：Ver.4.8のキャラクター情報＆創作コンテンツを追加しました。</p><p style="white-space: pre-wrap;">Ver.4.8の更新に伴い、HoYoWikiにゲーム内の仕様や考察に関連するワードが追加されます。</p><p style="white-space: pre-wrap;">（エミリエについての情報は、8月6日に開放される期間限定祈願と同時に更新されます）</p><p style="white-space: pre-wrap;">（HoYoWikiはHoYoLABクリエイターの皆さまに編集いただいております。公式の立場を表すものではありません）</p><p style="white-space: pre-wrap;">
-
-[>>HoYoWikiはこちらより<<](https://wiki.hoyolab.com/pc/genshin/home?bbs_presentation_style=fullscreen&utm_campaign=update&utm_id=2&utm_medium=notice&utm_source=ingame)
-</p><p style="white-space: pre-wrap; min-height: 1.5em;"></p><p style="white-space: pre-wrap;">| 育成計算機更新：「バッグ内必要素材の計算機能」を追加しました。</p><p style="white-space: pre-wrap;">（エミリエの育成計算は8月6日に開放される期間限定祈願と同時に更新されます）</p><p style="white-space: pre-wrap;">
-
-[>>育成計算機はこちらより<<](https://act.hoyolab.com/ys/event/calculator-sea/index.html?bbs_auth_required=true&bbs_presentation_style=fullscreen&utm_campaign=update&utm_content=calculator&utm_id=2&utm_medium=notice&utm_source=ingame)
-</p><p style="white-space: pre-wrap; min-height: 1.5em;"></p><p style="white-space: pre-wrap;">| チーム編成シミュレーター：深境螺旋および幻想シアターの編成を確認できます。</p><p style="white-space: pre-wrap;">（幻想シアターの第二期の編成は8月1日以降確認できるようになります）</p><p style="white-space: pre-wrap;">（エミリエの編成情報は8月6日に開放される期間限定祈願と同時に更新されます）</p><p style="white-space: pre-wrap;">
-
-[>>チーム編成シミュレーターはこちらより<<](https://act.hoyolab.com/ys/event/bbs-lineup-ys-sea/index.html?bbs_presentation_style=fullscreen&utm_campaign=update&utm_content=lineup&utm_id=2&utm_medium=notice&utm_source=ingame#/m/home/rec)
-</p><p style="white-space: pre-wrap; min-height: 1.5em;"></p><p style="white-space: pre-wrap; min-height: 1.5em;"></p>
+### 2024年七聖召喚大会「リトルプリンス杯」記念——カードの裏面配布のお知らせ
+<img src="https://sdk.hoyoverse.com/upload/ann/2024/07/17/0b90b5b276d738cbb9669aa75ddbb0a5_8564092026063466850.jpg">
+<p style="white-space: pre-wrap;">親愛なる旅人さん、七聖召喚カードの裏面「フォンタ」がメールボックスに配布されました。お早めにお受け取りください。</p><p style="white-space: pre-wrap; min-height: 1.5em;"></p><p style="white-space: pre-wrap;">〓受け取り条件〓</p><p style="white-space: pre-wrap;">冒険ランク10以上</p><p style="white-space: pre-wrap; min-height: 1.5em;"></p><p style="white-space: pre-wrap;">〓受け取り期間〓</p><p style="white-space: pre-wrap;"><t class="t_gl" contenteditable="false"></t><t class="t_gl" contenteditable="false">2024/07/18 12:00</t> - <t class="t_gl" contenteditable="false">2024/08/17 12:00</t></p><p style="white-space: pre-wrap;">※メールの有効期限は30日となります。忘れないようご確認ください。</p><p style="white-space: pre-wrap; min-height: 1.5em;"></p><p style="white-space: pre-wrap;">【アストラカーニバル-リトルプリンス杯】絶賛開催中！各リージョンのトッププレイヤーたちによる激戦が今ここに！</p><p style="white-space: pre-wrap;">カードの裏面を「フォンタ」に変えて、爽快な七聖召喚をプレイ！</p><p style="white-space: pre-wrap;"><a href="javascript:miHoYoGameJSSDK.openInBrowser('https://www.hoyolab.com/accountCenter/postList?id=390027001');" data-type="a" link-type="game_outer" rel="noopener noreferrer nofollow">原神アストラカーニバルアカウントをフォローして、さらなるイベント情報をチェック！</a></p>
 
 <end>
