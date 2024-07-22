@@ -2,7 +2,7 @@ name: GI-GameNotice System
 
 on:
   schedule:
-    - cron: "00 * * * *"
+    - cron: "0 */6 * * *"
   workflow_dispatch:
 
 jobs:
