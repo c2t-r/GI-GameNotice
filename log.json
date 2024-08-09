@@ -362,5 +362,19 @@
     "start_time": "2024-08-05 12:00:00",
     "end_time": "2024-08-28 07:00:00",
     "type": 2
+  },
+  "20679": {
+    "title": "イベントアンケート調査実施中",
+    "banner": "https://sdk.hoyoverse.com/upload/ann/2022/10/10/47f9be08cd62692ec57c96dae695c56e_1181992679182382373.jpg",
+    "start_time": "2024-08-09 10:00:00",
+    "end_time": "2024-08-12 23:59:59",
+    "type": 2
+  },
+  "20649": {
+    "title": "『原神』公式PVテーマOST3.0『流星の軌跡Vol.3』が正式リリース",
+    "banner": "https://sdk.hoyoverse.com/upload/ann/2024/08/09/17c8d02cd05fe225a95453ca4495015f_3350410369166632789.jpg",
+    "start_time": "2024-08-09 13:00:00",
+    "end_time": "2024-08-16 23:59:59",
+    "type": 2
   }
 }
