@@ -17,8 +17,11 @@ LANGUAGE = ja // en, ja, es....
 ## Latest Notice
 <start>
 
-### 【原神】ナタ LIVE MUSIC VIDEO（オーケストラ編成）正式リリース
-<img src="https://sdk.hoyoverse.com/upload/ann/2024/08/14/783cd02a71720c03f5d5aa58f41bda36_4825308316977003826.jpg">
-<p style="white-space: pre-wrap;">親愛なる旅人さんへ</p><p style="white-space: pre-wrap;">【原神】ナタ LIVE MUSIC VIDEO（オーケストラ編成）が正式リリースされました。</p><p style="white-space: pre-wrap;">今回のナタ LIVE MUSIC VIDEOは、HOYO-MiXが提供する原神のゲーム音楽『ナタ Natlan』と『蒼き野原のアンセム Anthem of the Savannah』の2曲で構成されています。指揮者Robert Ziegler氏とロンドン交響楽団、London Voices合唱団、Vocal Shack合唱団、そして伝統楽器の演奏者の皆様にご協力いただきました。</p><p style="white-space: pre-wrap;">‌</p><p style="white-space: pre-wrap;">制作協力：TAKEOFF Studios/撮影サポート：Stagecast　ご協力ありがとうございました。</p><p style="white-space: pre-wrap; min-height: 1.5em;"></p><p style="white-space: pre-wrap;">以下のプラットフォームより、ぜひ『原神』ナタ LIVE MUSIC VIDEO（オーケストラ編成）をご視聴ください。</p><p style="white-space: pre-wrap; min-height: 1.5em;"></p><p style="white-space: pre-wrap;">YouTube：</p><p style="white-space: pre-wrap;"><a href="javascript:miHoYoGameJSSDK.openInBrowser('https://youtu.be/VN9ucWhXEm4');" data-type="a" link-type="game_outer" rel="noopener noreferrer nofollow">【『原神』ナタ LIVE MUSIC VIDEO（オーケストラ編成）はこちら】</a></p><p style="white-space: pre-wrap; min-height: 1.5em;"></p><p style="white-space: pre-wrap; min-height: 1.5em;"></p>
+### Ver.5.0特設ページ公開
+<img src="https://sdk.hoyoverse.com/upload/ann/2024/08/16/be937c618592e71f1c847b262be8cc92_4772595046160583130.jpg">
+<p style="white-space: pre-wrap;">親愛なる旅人さんへ</p><p style="white-space: pre-wrap; min-height: 1.5em;"></p><p style="white-space: pre-wrap;">Ver.5.0「栄華と炎天の途」特設ページが公開されました！</p><p style="white-space: pre-wrap; min-height: 1.5em;"></p><p style="white-space: pre-wrap;">
+
+[>>>>Ver.5.0「栄華と炎天の途」特設ページはこちら<<<<](https://act.hoyoverse.com/ys/event/e20240817preview-6y2ic4/index.html?game_biz=hk4e_global&sign_type=2&auth_appid=e20240817warm&authkey_ver=1&utm_source=ingame&utm_medium=notice)
+</p><p style="white-space: pre-wrap; min-height: 1.5em;"></p><p style="white-space: pre-wrap;">※ ゲーム内でイベントページを開いてシェアすると、モラ×20,000を獲得可能！</p><p style="white-space: pre-wrap; min-height: 1.5em;"></p><p style="white-space: pre-wrap; min-height: 1.5em;"></p>
 
 <end>

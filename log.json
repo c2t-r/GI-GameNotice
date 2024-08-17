@@ -397,5 +397,19 @@
     "start_time": "2024-08-16 05:00:00",
     "end_time": "2024-08-23 10:59:59",
     "type": 2
+  },
+  "20597": {
+    "title": "イベント・「熟知の奔流」：天賦育成素材2倍ドロップ",
+    "banner": "https://sdk.hoyoverse.com/upload/ann/2024/07/19/eab84b2ccc588e84bb7da0ebedc2ebfe_8664765641675458113.jpg",
+    "start_time": "2024-08-17 12:00:00",
+    "end_time": "2024-08-26 03:59:59",
+    "type": 1
+  },
+  "20698": {
+    "title": "Ver.5.0特設ページ公開",
+    "banner": "https://sdk.hoyoverse.com/upload/ann/2024/08/16/be937c618592e71f1c847b262be8cc92_4772595046160583130.jpg",
+    "start_time": "2024-08-17 12:00:00",
+    "end_time": "2024-08-26 23:59:59",
+    "type": 2
   }
 }
