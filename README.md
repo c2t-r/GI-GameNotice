@@ -17,11 +17,8 @@ LANGUAGE = ja // en, ja, es....
 ## Latest Notice
 <start>
 
-### Ver.5.0特設ページ公開
-<img src="https://sdk.hoyoverse.com/upload/ann/2024/08/16/be937c618592e71f1c847b262be8cc92_4772595046160583130.jpg">
-<p style="white-space: pre-wrap;">親愛なる旅人さんへ</p><p style="white-space: pre-wrap; min-height: 1.5em;"></p><p style="white-space: pre-wrap;">Ver.5.0「栄華と炎天の途」特設ページが公開されました！</p><p style="white-space: pre-wrap; min-height: 1.5em;"></p><p style="white-space: pre-wrap;">
-
-[>>>>Ver.5.0「栄華と炎天の途」特設ページはこちら<<<<](https://act.hoyoverse.com/ys/event/e20240817preview-6y2ic4/index.html?game_biz=hk4e_global&sign_type=2&auth_appid=e20240817warm&authkey_ver=1&utm_source=ingame&utm_medium=notice)
-</p><p style="white-space: pre-wrap; min-height: 1.5em;"></p><p style="white-space: pre-wrap;">※ ゲーム内でイベントページを開いてシェアすると、モラ×20,000を獲得可能！</p><p style="white-space: pre-wrap; min-height: 1.5em;"></p><p style="white-space: pre-wrap; min-height: 1.5em;"></p>
+### ログイン異常について
+<img src="https://sdk.hoyoverse.com/upload/ann/2024/08/19/6c706d3476a8917a68d7881cac20c9e1_904070592155844827.png">
+<p style="white-space: pre-wrap;">親愛なる旅人さんへ</p><p style="white-space: pre-wrap;">Facebookのサービス異常により、一部旅人さんがゲームにログインできない不具合が発生しております。</p><p style="white-space: pre-wrap;">関連サービスからゲームにログインしていた旅人さんは、当該サービスに紐付けしたHoYoverse通行証を使ってゲームにログインできます。</p><p style="white-space: pre-wrap;">関連するサービスが復旧次第、公式のお知らせにて旅人さんにご案内いたします。</p><p style="white-space: pre-wrap;">この度はご迷惑をお掛けし、深くお詫び申し上げます。</p><p style="white-space: pre-wrap; min-height: 1.5em;"></p><p style="white-space: pre-wrap; min-height: 1.5em;"></p>
 
 <end>
