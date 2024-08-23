@@ -425,5 +425,19 @@
     "start_time": "2024-08-22 04:00:00",
     "end_time": "2024-09-24 16:59:59",
     "type": 2
+  },
+  "20706": {
+    "title": "バージョン満足度アンケート調査実施中",
+    "banner": "https://sdk.hoyoverse.com/upload/ann/2022/10/24/9f0daebffad38a55c60a1cd7c518d693_3451760669886321601.jpg",
+    "start_time": "2024-08-23 10:00:00",
+    "end_time": "2024-08-26 23:59:59",
+    "type": 2
+  },
+  "20692": {
+    "title": "「この景色を君と」——新キャラクター・ムアラニのWebイベント開催",
+    "banner": "https://sdk.hoyoverse.com/upload/ann/2024/08/21/ecc897e52851b34c5ea2237c7894ff08_1053166169329737840.jpg",
+    "start_time": "2024-08-23 12:00:00",
+    "end_time": "2024-08-30 23:59:59",
+    "type": 2
   }
 }
