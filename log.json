@@ -579,5 +579,19 @@
     "start_time": "2024-08-28 12:00:00",
     "end_time": "2024-09-25 23:59:59",
     "type": 2
+  },
+  "20730": {
+    "title": "アップデートと調整",
+    "banner": "https://sdk.hoyoverse.com/upload/announcement/2020/11/11/5ec5dc80e2429e1dd38d35d56b08a04d_5453296487380915976.jpg",
+    "start_time": "2024-08-27 18:00:00",
+    "end_time": "2024-10-08 17:00:00",
+    "type": 2
+  },
+  "20683": {
+    "title": "戦績ツールでキャラクターのスターテスを確認できるようになりました！早速確認してみましょう！",
+    "banner": "https://sdk.hoyoverse.com/upload/ann/2024/08/27/ab04f6cdf45d9f0c83730e7613fbd576_5169487652553652067.jpg",
+    "start_time": "2024-08-28 06:00:00",
+    "end_time": "2024-10-08 10:59:59",
+    "type": 2
   }
 }
