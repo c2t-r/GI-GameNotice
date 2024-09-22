@@ -17,11 +17,8 @@ LANGUAGE = ja // en, ja, es....
 ## Latest Notice
 <start>
 
-### イベントアンケート調査実施中
-<img src="https://sdk.hoyoverse.com/upload/ann/2022/10/10/47f9be08cd62692ec57c96dae695c56e_1181992679182382373.jpg">
-<p style="white-space: pre-wrap;">親愛なる旅人さんへ</p><p style="white-space: pre-wrap;">今回のイベントに対する満足度を調査し、旅人の皆さんにより良いゲーム体験をご提供できるよう、アンケート調査をご用意いたしました。下記のリンクよりアンケートにご協力いただきますようお願いいたします。</p><p style="white-space: pre-wrap; min-height: 1.5em;"></p><p style="white-space: pre-wrap;">〓アンケート調査期間〓</p><p style="white-space: pre-wrap;"><t class="t_gl">2024/09/20 10:00:00</t> - <t class="t_gl">2024/09/23 23:59:59</t></p><p style="white-space: pre-wrap; min-height: 1.5em;"></p><p style="white-space: pre-wrap;">〓アンケート調査の参加方法〓</p><p style="white-space: pre-wrap;">
-
-[クリックしてアンケートに回答](https://webstatic.hoyoverse.com/common/event/survey-user-v2/index.html?auth_appid=survey_CNn-jEF0sB-seXZlJUP2c9jil9m4TbnKBpu_4LSaDqXACpi&game_biz=hk4e_global&surveyId=26471&format=1&sign_type=2&authkey_ver=1)
-</p><p style="white-space: pre-wrap; min-height: 1.5em;"></p><p style="white-space: pre-wrap;">パイモンのメニュー画面を開く-メール-「イベントアンケート調査」-アンケート調査のリンクから、あるいはパイモンのメニュー画面を開く-アンケート調査-「イベントアンケート調査」を選ぶことで、アンケートに参加できます。どちらかの方法で、1回でもアンケートにご回答いただければ報酬の獲得が可能です。両方の方法で回答する必要はございません。</p><p style="white-space: pre-wrap;">アンケートは一度提出されると内容の変更はできません。そのため、慎重にご回答いただきますようお願いいたします。</p><p style="white-space: pre-wrap; min-height: 1.5em;"></p><p style="white-space: pre-wrap;">旅人さんの貴重なご意見、心よりお待ちしております！</p>
+### 「HoYoFair2024」原神・同人特別番組『灼熱の音楽祭』
+<img src="https://sdk.hoyoverse.com/upload/ann/2024/09/12/fce2d0fb9d87f5b6634e8eb325978a99_13979090001034233.jpg">
+<p style="white-space: pre-wrap;">旅人さん、こんにちは！クリエイターさんたちの共同制作による「HoYoFair2024」原神・同人特別番組『灼熱の音楽祭』が公開されました！</p><p style="white-space: pre-wrap; min-height: 1.5em;"></p><p style="white-space: pre-wrap;"><a href="javascript:miHoYoGameJSSDK.openInBrowser('https://youtu.be/WTPSY7f3m1M');" data-type="a" link-type="game_outer" rel="noopener noreferrer nofollow">>>こちらからご覧いただけます<<</a></p><p style="white-space: pre-wrap; min-height: 1.5em;"></p><p style="white-space: pre-wrap;">素敵な作品を届けてくださった『原神』を愛するクリエイターの皆さまに心より感謝を申し上げます。旅人さんも、ぜひ各プラットフォームからいいねやコメントを送って応援しましょう！</p><p style="white-space: pre-wrap;">（※同人作品はいずれも二次創作作品です。実際のゲームストーリーや設定とは一切関係がありません。）</p><p style="white-space: pre-wrap; min-height: 1.5em;"></p><p style="white-space: pre-wrap; min-height: 1.5em;"></p>
 
 <end>

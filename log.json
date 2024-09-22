@@ -670,5 +670,12 @@
     "start_time": "2024-09-19 21:00:00",
     "end_time": "2024-09-23 10:59:59",
     "type": 2
+  },
+  "20754": {
+    "title": "「HoYoFair2024」原神・同人特別番組『灼熱の音楽祭』",
+    "banner": "https://sdk.hoyoverse.com/upload/ann/2024/09/12/fce2d0fb9d87f5b6634e8eb325978a99_13979090001034233.jpg",
+    "start_time": "2024-09-22 11:00:00",
+    "end_time": "2024-09-29 23:59:59",
+    "type": 2
   }
 }
