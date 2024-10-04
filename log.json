@@ -733,5 +733,19 @@
     "start_time": "2024-09-28 13:00:00",
     "end_time": "2024-10-12 23:59:59",
     "type": 2
+  },
+  "20792": {
+    "title": "バージョン満足度アンケート調査実施中",
+    "banner": "https://sdk.hoyoverse.com/upload/ann/2022/10/24/9f0daebffad38a55c60a1cd7c518d693_3451760669886321601.jpg",
+    "start_time": "2024-10-04 10:00:00",
+    "end_time": "2024-10-07 23:59:59",
+    "type": 2
+  },
+  "20780": {
+    "title": "「至急のオーダー」——新キャラクター「シロネン」のWebイベント開催。",
+    "banner": "https://sdk.hoyoverse.com/upload/ann/2024/09/27/70318c68770c4ea86fec0603e83bda03_1115633446418905540.jpg",
+    "start_time": "2024-10-04 12:00:00",
+    "end_time": "2024-10-11 23:59:59",
+    "type": 2
   }
 }
