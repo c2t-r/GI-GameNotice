@@ -754,5 +754,82 @@
     "start_time": "2024-10-05 00:00:00",
     "end_time": "2024-10-12 00:00:00",
     "type": 2
+  },
+  "20799": {
+    "title": "Ver.5.1バージョンアップのお知らせ",
+    "banner": "https://sdk.hoyoverse.com/upload/ann/2024/01/26/c24d6da5527f40502a98e54ac9b76add_4872287290990870550.jpg",
+    "start_time": "2024-10-06 22:05:00",
+    "end_time": "2024-10-08 17:00:00",
+    "type": 2
+  },
+  "20745": {
+    "title": "「七聖召喚」鋳境の研鑽：巧みな攻勢",
+    "banner": "https://sdk.hoyoverse.com/upload/ann/2024/09/19/4ed6401ce434f1d01816904d9a690c53_3707197299198836917.png",
+    "start_time": "2024-10-06 23:00:00",
+    "end_time": "2024-11-19 18:00:00",
+    "type": 1
+  },
+  "20743": {
+    "title": "「冒険助力パック」第35期 期間限定発売",
+    "banner": "https://sdk.hoyoverse.com/upload/ann/2024/09/19/c76fa8f831f76ec7f12b5fa0159f60aa_5979177794936769310.png",
+    "start_time": "2024-10-06 23:00:00",
+    "end_time": "2024-10-23 23:59:59",
+    "type": 1
+  },
+  "20744": {
+    "title": "イベント・「神誕紀行」",
+    "banner": "https://sdk.hoyoverse.com/upload/ann/2024/09/19/125c9c15cd0d61d3b86b47a062173980_5246092404982474599.png",
+    "start_time": "2024-10-06 23:00:00",
+    "end_time": "2024-11-18 03:59:59",
+    "type": 1
+  },
+  "20742": {
+    "title": "「彩石と焔泉の国」：期間中に探索任務をクリアすると、追加で原石×400を獲得可能",
+    "banner": "https://sdk.hoyoverse.com/upload/ann/2024/09/19/8564152af12e964e04259180e2cedc0b_4138568903868942393.png",
+    "start_time": "2024-10-06 23:00:00",
+    "end_time": "2024-12-31 14:59:59",
+    "type": 1
+  },
+  "20740": {
+    "title": "「祝福を祈り、テペトルに告ぐ」：期間中に見聞任務をクリアすると、追加で原石、キャラクター突破素材などの報酬を獲得可能",
+    "banner": "https://sdk.hoyoverse.com/upload/ann/2024/09/19/6e3dd184f241a047d7b12deb1de99d8c_8751189821213975484.png",
+    "start_time": "2024-10-06 23:00:00",
+    "end_time": "2024-10-29 17:59:00",
+    "type": 1
+  },
+  "20741": {
+    "title": "「燃ゆる運命の虹光」：期間中に魔神任務をクリアすると、追加で原石×500を獲得可能",
+    "banner": "https://sdk.hoyoverse.com/upload/ann/2024/09/19/0d5fa983517889f774a2b0dc3b4613dc_648737296409080376.png",
+    "start_time": "2024-10-06 23:00:00",
+    "end_time": "2024-11-19 14:59:59",
+    "type": 1
+  },
+  "20739": {
+    "title": "イベント祈願・「神鋳賦形」：「片手剣・岩峰を巡る歌」「片手剣・有楽御簾切」確率UP！",
+    "banner": "https://sdk.hoyoverse.com/upload/ann/2024/09/19/a6c28342e733ad5f043984d2daaf844c_6251106911975070536.png",
+    "start_time": "2024-10-06 23:00:00",
+    "end_time": "2024-10-29 17:59:00",
+    "type": 1
+  },
+  "20738": {
+    "title": "イベント祈願・「千の雲で彩なす羽織」：「雷鳴の裁錦師・千織（岩）」確率UP！",
+    "banner": "https://sdk.hoyoverse.com/upload/ann/2024/09/19/37b880a1c6c2acdadc74d9a2bf19d2ac_9094337430894800517.png",
+    "start_time": "2024-10-06 23:00:00",
+    "end_time": "2024-10-29 17:59:00",
+    "type": 1
+  },
+  "20737": {
+    "title": "イベント祈願・「鍛火の祝福」：「魂を鋳る烈火・シロネン（岩）」確率UP！",
+    "banner": "https://sdk.hoyoverse.com/upload/ann/2024/09/24/679bacd37c17f27b93c29e1d73ceec05_8742562503824294005.png",
+    "start_time": "2024-10-06 23:00:00",
+    "end_time": "2024-10-29 17:59:00",
+    "type": 1
+  },
+  "20752": {
+    "title": "魔神任務開放：第五章・第三幕、第四幕",
+    "banner": "https://sdk.hoyoverse.com/upload/ann/2024/09/22/e6649f353da0bc98ced2d5d4a8789611_8876226518324572093.png",
+    "start_time": "2024-10-06 23:00:00",
+    "end_time": "2024-11-19 17:00:00",
+    "type": 2
   }
 }
