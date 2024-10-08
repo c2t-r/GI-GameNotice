@@ -17,8 +17,11 @@ LANGUAGE = ja // en, ja, es....
 ## Latest Notice
 <start>
 
-### 魔神任務開放：第五章・第三幕、第四幕
-<img src="https://sdk.hoyoverse.com/upload/ann/2024/09/22/e6649f353da0bc98ced2d5d4a8789611_8876226518324572093.png">
-<p style="white-space: pre-wrap;">アビスの暗闇が目前に迫っている。突如として立ち昇る煙を覗く人々は、まるで新たな可能性を覗き見ているようだ。</p><p style="white-space: pre-wrap;">この世には英雄が必要だ。死の静寂を切り裂く奇跡の光を。</p><p style="white-space: pre-wrap; min-height: 1.5em;"></p><p style="white-space: pre-wrap;">必要な冒険ランクに到達し、前提任務をクリアすると、任務-魔神任務より第五章・第三幕「鏡と謎煙の彼方」と第五章・第四幕「燃ゆる運命の虹光」を確認することができます。</p><p style="white-space: pre-wrap;">（「任務」画面が開放された後、PC版はJキー、モバイル版は左上の任務ボタン、PlayStation®4及びPlayStation®5はL1を長押ししてショートカットルーレットを開き任務を選択することで任務画面に入れます。）</p><p style="white-space: pre-wrap; min-height: 1.5em;"></p><p style="white-space: pre-wrap;">〓任務開放時間〓</p><p style="white-space: pre-wrap;">Ver.5.1更新後、魔神任務 第五章・第三幕「鏡と謎煙の彼方」、第五章・第四幕「燃ゆる運命の虹光」が開放されます。</p><p style="white-space: pre-wrap; min-height: 1.5em;"></p><p style="white-space: pre-wrap;">〓魔神任務 第五章・第三幕「鏡と謎煙の彼方」開放条件〓</p><p style="white-space: pre-wrap;">•冒険ランク28以上</p><p style="white-space: pre-wrap;">•魔神任務 第五章・第二幕「白石に埋もれし黒石」をクリア</p><p style="white-space: pre-wrap; min-height: 1.5em;"></p><p style="white-space: pre-wrap;">〓魔神任務 第五章・第四幕「燃ゆる運命の虹光」開放条件〓</p><p style="white-space: pre-wrap;">•冒険ランク28以上</p><p style="white-space: pre-wrap;">•魔神任務 第五章・第三幕「鏡と謎煙の彼方」をクリア</p><p style="white-space: pre-wrap; min-height: 1.5em;"></p><p style="white-space: pre-wrap;">「クイックスタート」機能をご利用いただくと、進行中の魔神任務の進捗を維持しつつ、同時に魔神任務 第五章・第一幕「栄華と炎天の途」を進められます。「クイックスタート」機能を利用して魔神任務 第五章・第一幕をクリアした後、さらに第五章の続きの任務を進めると、本バージョンで開放された新しい魔神任務を開放できます。</p><p style="white-space: pre-wrap; min-height: 1.5em;"></p><p style="white-space: pre-wrap;">"PlayStation", "PS5", "PS4", "DualSense", "DUALSHOCK" are registered trademarks or trademarks of Sony Interactive Entertainment Inc.</p>
+### HoYoLAB-「ログインボーナス」機能について
+<img src="https://sdk.hoyoverse.com/upload/ann/2022/12/06/1b24864522e48bf3736f1c1658083e28_8076710891181596635.png">
+<p style="white-space: pre-wrap;">親愛なる旅人さんへ</p><p style="white-space: pre-wrap;">HoYoLABの「ログインボーナス」機能をまだご利用いただいていない旅人さんは、ぜひご活用ください！</p><p style="white-space: pre-wrap;">
+
+[詳細はこちら](https://act.hoyolab.com/ys/event/signin-sea-v3/index.html?act_id=e202102251931481&hyl_auth_required=true&hyl_presentation_style=fullscreen&utm_source=ingame&utm_medium=notice&utm_campaign=checkin&utm_id=2&lang=zh-cn&device_type=pc&game_version=OSRELWin3.8.0_R16698153_S16388687_D16388687&plat_type=pc)
+</p><p style="white-space: pre-wrap; min-height: 1.5em;"></p><p style="white-space: pre-wrap;">HoYoLAB-ツール-原神-ログインボーナスから、ログインボーナスの機能をご利用いただくことで、原石、モラ、大英雄の経験などのゲーム内報酬を毎日ゲットできます。</p><p style="white-space: pre-wrap;">「ログインボーナス」機能を初めて利用する旅人さんは、原石×100、モラ×10,000を獲得できます！</p><p style="white-space: pre-wrap; min-height: 1.5em;"></p><p style="white-space: pre-wrap;">〓利用期間〓</p><p style="white-space: pre-wrap;">期限なし</p><p style="white-space: pre-wrap; min-height: 1.5em;"></p>
 
 <end>
