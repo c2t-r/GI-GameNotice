@@ -17,11 +17,8 @@ LANGUAGE = ja // en, ja, es....
 ## Latest Notice
 <start>
 
-### HoYoLAB-「ログインボーナス」機能について
-<img src="https://sdk.hoyoverse.com/upload/ann/2022/12/06/1b24864522e48bf3736f1c1658083e28_8076710891181596635.png">
-<p style="white-space: pre-wrap;">親愛なる旅人さんへ</p><p style="white-space: pre-wrap;">HoYoLABの「ログインボーナス」機能をまだご利用いただいていない旅人さんは、ぜひご活用ください！</p><p style="white-space: pre-wrap;">
-
-[詳細はこちら](https://act.hoyolab.com/ys/event/signin-sea-v3/index.html?act_id=e202102251931481&hyl_auth_required=true&hyl_presentation_style=fullscreen&utm_source=ingame&utm_medium=notice&utm_campaign=checkin&utm_id=2&lang=zh-cn&device_type=pc&game_version=OSRELWin3.8.0_R16698153_S16388687_D16388687&plat_type=pc)
-</p><p style="white-space: pre-wrap; min-height: 1.5em;"></p><p style="white-space: pre-wrap;">HoYoLAB-ツール-原神-ログインボーナスから、ログインボーナスの機能をご利用いただくことで、原石、モラ、大英雄の経験などのゲーム内報酬を毎日ゲットできます。</p><p style="white-space: pre-wrap;">「ログインボーナス」機能を初めて利用する旅人さんは、原石×100、モラ×10,000を獲得できます！</p><p style="white-space: pre-wrap; min-height: 1.5em;"></p><p style="white-space: pre-wrap;">〓利用期間〓</p><p style="white-space: pre-wrap;">期限なし</p><p style="white-space: pre-wrap; min-height: 1.5em;"></p>
+### Ver.5.1最新情報一覧
+<img src="">
+<p style="white-space: pre-wrap; min-height: 1.5em; text-align: center;"><img src="https://sdk.hoyoverse.com/upload/ann/2024/10/08/3fbef47ea0b5674a097e02053bdcf720_7069728500613802768.jpg" href="" style="vertical-align:middle;"><img src="https://sdk.hoyoverse.com/upload/ann/2024/10/08/1e6396a769b395b4d8e3d628a73e1fde_1249002843910425938.jpg" href="" style="vertical-align:middle;"><img src="https://sdk.hoyoverse.com/upload/ann/2024/10/08/32229dafb33115bfca5fda21c1644c04_6495843212541175466.jpg" href="" style="vertical-align:middle;"><img src="https://sdk.hoyoverse.com/upload/ann/2024/10/08/35b9f476bcb33d1ed15a8c79f2955797_9200368072997896780.jpg" href="" style="vertical-align:middle;"></p>
 
 <end>
