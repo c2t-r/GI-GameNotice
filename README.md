@@ -17,8 +17,8 @@ LANGUAGE = ja // en, ja, es....
 ## Latest Notice
 <start>
 
-### アップデートと調整
-<img src="https://sdk.hoyoverse.com/upload/announcement/2020/11/11/5ec5dc80e2429e1dd38d35d56b08a04d_5453296487380915976.jpg">
-<p style="white-space: pre-wrap;">親愛なる旅人さんへ</p><p style="white-space: pre-wrap;">旅人の皆さんにより良いゲーム体験をご提供できるよう、皆さんのアドバイスに基づき、ゲーム内容の調整や不具合の修正を行いました。</p><p style="white-space: pre-wrap; min-height: 1.5em;"></p><p style="white-space: pre-wrap;">〓<t class="t_gl" contenteditable="false">2024/10/09 21:45:00</t> 更新内容〓</p><p style="white-space: pre-wrap;">特定の状況において、魔神任務「迫りくる黒き波」、「空高く昇る絶望」、または「我々は独りで戦ったりしない」を進行中、他のデバイスに切り替えてプレイすると、指定場所に着いた後、任務を続けられない、マップのアイコンが消えるなどの不具合を修正しました。</p><p style="white-space: pre-wrap;">この不具合に遭遇した旅人さんは、パイモンのメニュー画面からゲームプロセスを終了した後、再ログインすることで不具合を解消できます。</p>
+### Ver.5.1同人作品募集コンテスト開催中！
+<img src="https://sdk.hoyoverse.com/upload/ann/2024/09/29/9125d5503ff6cad711e12ef836229f1d_3238563079500084370.jpg">
+<p style="white-space: pre-wrap;">親愛なる旅人さんへ</p><p style="white-space: pre-wrap;">『原神』Ver.5.1「燃ゆる運命の虹光」同人作品募集コンテストが開催中です。</p><p style="white-space: pre-wrap; min-height: 1.5em;"></p><p style="white-space: pre-wrap;">〓コンテスト紹介〓</p><p style="white-space: pre-wrap;">公式の作品募集コンテストページにアクセスし、Ver.5.1のコンテンツをテーマにして、キャラクターまたはストーリー関連のイラストやちびキャライラスト、ゲーム内ストーリーまたはキャラクター関連の動画作品を投稿すると、最大1,200ドルと5,000個の原石を獲得できるチャンス！詳細は公式のコンテストページをチェックしてみましょう～</p><p style="white-space: pre-wrap;"><a href="javascript:miHoYoGameJSSDK.openInBrowser('https://act.hoyoverse.com/puzzle/hk4e/pz_RlmO34Y_JK/index.html?hyl_auth_required=true&sign_type=2&authkey_ver=1&auth_appid=e202409252147');" data-type="a" link-type="game_outer" rel="noopener noreferrer nofollow">>>詳細を確認<<</a></p><p style="white-space: pre-wrap; min-height: 1.5em;"></p><p style="white-space: pre-wrap;">〓コンテスト期間〓</p><p style="white-space: pre-wrap;">投稿期間：2024年10月10日～2024年11月6日 24:59 (JST)</p><p style="white-space: pre-wrap;">審査期間：2024年11月7日～2024年11月21日 24:59 (JST)</p><p style="white-space: pre-wrap;">結果発表：2024年11月22日</p><p style="white-space: pre-wrap; min-height: 1.5em;"></p><p style="white-space: pre-wrap; min-height: 1.5em;"></p>
 
 <end>
