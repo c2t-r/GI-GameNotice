@@ -17,11 +17,11 @@ LANGUAGE = ja // en, ja, es....
 ## Latest Notice
 <start>
 
-### イベントアンケート調査実施中
-<img src="https://sdk.hoyoverse.com/upload/ann/2022/10/10/47f9be08cd62692ec57c96dae695c56e_1181992679182382373.jpg">
-<p style="white-space: pre-wrap;">親愛なる旅人さんへ</p><p style="white-space: pre-wrap;">今回のイベントに対する満足度を調査し、旅人の皆さんにより良いゲーム体験をご提供できるよう、アンケート調査をご用意いたしました。下記のリンクよりアンケートにご協力いただきますようお願いいたします。</p><p style="white-space: pre-wrap; min-height: 1.5em;"></p><p style="white-space: pre-wrap;">〓アンケート調査期間〓</p><p style="white-space: pre-wrap;"><t class="t_gl">2024/11/01 10:00:00</t> - <t class="t_gl">2024/11/04 23:59:59</t></p><p style="white-space: pre-wrap; min-height: 1.5em;"></p><p style="white-space: pre-wrap;">〓アンケート調査の参加方法〓</p><p style="white-space: pre-wrap;">
+### HoYoLAB-「ログインボーナス」機能について
+<img src="https://sdk.hoyoverse.com/upload/ann/2022/12/06/1b24864522e48bf3736f1c1658083e28_8076710891181596635.png">
+<p style="white-space: pre-wrap;">親愛なる旅人さんへ</p><p style="white-space: pre-wrap;">HoYoLABの「ログインボーナス」機能をまだご利用いただいていない旅人さんは、ぜひご活用ください！</p><p style="white-space: pre-wrap;">
 
-[クリックしてアンケートに回答](https://webstatic.hoyoverse.com/common/event/survey-user-v2/index.html?auth_appid=survey_CNn-jUJ1tB-seXZlJUP2c9jil3DAjV6f-4oX2bvUBt26Hle&game_biz=hk4e_global&surveyId=27365&format=1&sign_type=2&authkey_ver=1)
-</p><p style="white-space: pre-wrap; min-height: 1.5em;"></p><p style="white-space: pre-wrap;">パイモンのメニュー画面を開く-メール-「イベントアンケート調査」-アンケート調査のリンクから、あるいはパイモンのメニュー画面を開く-アンケート調査-「イベントアンケート調査」を選ぶことで、アンケートに参加できます。どちらかの方法で、1回でもアンケートにご回答いただければ報酬の獲得が可能です。両方の方法で回答する必要はございません。</p><p style="white-space: pre-wrap;">アンケートは一度提出されると内容の変更はできません。そのため、慎重にご回答いただきますようお願いいたします。</p><p style="white-space: pre-wrap; min-height: 1.5em;"></p><p style="white-space: pre-wrap;">旅人さんの貴重なご意見、心よりお待ちしております！</p>
+[詳細はこちら](https://act.hoyolab.com/ys/event/signin-sea-v3/index.html?act_id=e202102251931481&hyl_auth_required=true&hyl_presentation_style=fullscreen&utm_source=ingame&utm_medium=notice&utm_campaign=checkin&utm_id=2&lang=zh-cn&device_type=pc&game_version=OSRELWin3.8.0_R16698153_S16388687_D16388687&plat_type=pc)
+</p><p style="white-space: pre-wrap; min-height: 1.5em;"></p><p style="white-space: pre-wrap;">HoYoLAB-ツール-原神-ログインボーナスから、ログインボーナスの機能をご利用いただくことで、原石、モラ、大英雄の経験などのゲーム内報酬を毎日ゲットできます。</p><p style="white-space: pre-wrap;">「ログインボーナス」機能を初めて利用する旅人さんは、原石×100、モラ×10,000を獲得できます！</p><p style="white-space: pre-wrap; min-height: 1.5em;"></p><p style="white-space: pre-wrap;">〓利用期間〓</p><p style="white-space: pre-wrap;">期限なし</p><p style="white-space: pre-wrap; min-height: 1.5em;"></p>
 
 <end>
