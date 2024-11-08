@@ -17,11 +17,8 @@ LANGUAGE = ja // en, ja, es....
 ## Latest Notice
 <start>
 
-### HoYoLAB-「ログインボーナス」機能について
-<img src="https://sdk.hoyoverse.com/upload/ann/2022/12/06/1b24864522e48bf3736f1c1658083e28_8076710891181596635.png">
-<p style="white-space: pre-wrap;">親愛なる旅人さんへ</p><p style="white-space: pre-wrap;">HoYoLABの「ログインボーナス」機能をまだご利用いただいていない旅人さんは、ぜひご活用ください！</p><p style="white-space: pre-wrap;">
-
-[詳細はこちら](https://act.hoyolab.com/ys/event/signin-sea-v3/index.html?act_id=e202102251931481&hyl_auth_required=true&hyl_presentation_style=fullscreen&utm_source=ingame&utm_medium=notice&utm_campaign=checkin&utm_id=2&lang=zh-cn&device_type=pc&game_version=OSRELWin3.8.0_R16698153_S16388687_D16388687&plat_type=pc)
-</p><p style="white-space: pre-wrap; min-height: 1.5em;"></p><p style="white-space: pre-wrap;">HoYoLAB-ツール-原神-ログインボーナスから、ログインボーナスの機能をご利用いただくことで、原石、モラ、大英雄の経験などのゲーム内報酬を毎日ゲットできます。</p><p style="white-space: pre-wrap;">「ログインボーナス」機能を初めて利用する旅人さんは、原石×100、モラ×10,000を獲得できます！</p><p style="white-space: pre-wrap; min-height: 1.5em;"></p><p style="white-space: pre-wrap;">〓利用期間〓</p><p style="white-space: pre-wrap;">期限なし</p><p style="white-space: pre-wrap; min-height: 1.5em;"></p>
+### Ver.5.2「魂と炎のウォーベン」最新情報！
+<img src="https://sdk.hoyoverse.com/upload/ann/2024/11/07/24b972860fa4ca4c6768b78a12dfa7c4_5342482577249989590.png">
+<p style="white-space: pre-wrap;">親愛なる旅人さんへ</p><p style="white-space: pre-wrap; min-height: 1.5em;"></p><p style="white-space: pre-wrap;">Ver.5.2「魂と炎のウォーベン」の最新情報はこちらからご確認いただけます。ぜひチェックしてみてください！</p><p style="white-space: pre-wrap;"><a href="javascript:miHoYoGameJSSDK.openInBrowser('https://genshin.hoyoverse.com/?sign_type=2&auth_appid=pz_uqj_r_dbh9&authkey_ver=1&utm_source=ingame&utm_medium=notice');" data-type="a" link-type="game_outer" rel="noopener noreferrer nofollow">Ver.5.2「魂と炎のウォーベン」の最新情報へ</a></p><p style="white-space: pre-wrap; min-height: 1.5em;"></p><p style="white-space: pre-wrap; min-height: 1.5em;"></p>
 
 <end>
