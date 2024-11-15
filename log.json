@@ -971,5 +971,19 @@
     "start_time": "2024-11-08 23:00:00",
     "end_time": "2024-11-18 03:59:59",
     "type": 1
+  },
+  "20868": {
+    "title": "バージョン満足度アンケート調査実施中",
+    "banner": "https://sdk.hoyoverse.com/upload/ann/2024/11/15/9f0daebffad38a55c60a1cd7c518d693_8447300340898401260.jpg",
+    "start_time": "2024-11-14 21:00:00",
+    "end_time": "2024-11-18 10:59:59",
+    "type": 2
+  },
+  "20848": {
+    "title": "「空を飛ぶ意味」——新キャラクター・チャスカのWebイベント開催！",
+    "banner": "https://sdk.hoyoverse.com/upload/ann/2024/11/13/e9d789d30f2dbcf4183b0b9421e9e292_4596005936326904877.jpg",
+    "start_time": "2024-11-14 23:00:00",
+    "end_time": "2024-11-21 10:59:59",
+    "type": 2
   }
 }
