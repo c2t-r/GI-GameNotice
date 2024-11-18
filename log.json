@@ -985,5 +985,75 @@
     "start_time": "2024-11-14 23:00:00",
     "end_time": "2024-11-21 10:59:59",
     "type": 2
+  },
+  "20861": {
+    "title": "Ver.5.2バージョンアップのお知らせ",
+    "banner": "https://sdk.hoyoverse.com/upload/ann/2024/01/26/c24d6da5527f40502a98e54ac9b76add_4872287290990870550.jpg",
+    "start_time": "2024-11-17 22:05:00",
+    "end_time": "2024-11-19 17:00:00",
+    "type": 2
+  },
+  "20835": {
+    "title": "「冒険助力パック」第36期 期間限定発売",
+    "banner": "https://sdk.hoyoverse.com/upload/ann/2024/11/05/a72f4dabacfdbc4b743272e1ce486b40_2683371065312414345.jpg",
+    "start_time": "2024-11-17 23:00:00",
+    "end_time": "2024-12-04 23:59:00",
+    "type": 1
+  },
+  "20834": {
+    "title": "「七聖召喚」鋳境の研鑽：無限疾戦",
+    "banner": "https://sdk.hoyoverse.com/upload/ann/2024/11/05/9423afd89cd2f30ca26e3ef59305568d_2215172714545313214.jpg",
+    "start_time": "2024-11-17 23:00:00",
+    "end_time": "2024-12-31 18:00:00",
+    "type": 1
+  },
+  "20836": {
+    "title": "イベント・「霊織紀行」",
+    "banner": "https://sdk.hoyoverse.com/upload/ann/2024/11/05/aaa47875550bd2567186f8e92e50e990_2622817967355936916.jpg",
+    "start_time": "2024-11-17 23:00:00",
+    "end_time": "2024-12-30 03:59:59",
+    "type": 1
+  },
+  "20833": {
+    "title": "「風を招く崖と灰が流れる都へ」：期間中に探索任務をクリアすると、追加で原石×400を獲得可能",
+    "banner": "https://sdk.hoyoverse.com/upload/ann/2024/11/05/9a5daae4c834e8b8efe1a0aee720f025_9060187250890053611.jpg",
+    "start_time": "2024-11-17 23:00:00",
+    "end_time": "2025-02-11 14:59:59",
+    "type": 1
+  },
+  "20832": {
+    "title": "「塵に帰す花、堕ちる羽」：期間中に見聞任務をクリアすると、追加で原石、キャラクター突破素材などの報酬を獲得可能",
+    "banner": "https://sdk.hoyoverse.com/upload/ann/2024/11/05/c8dcbba1da3c2ca87eac5b816dd47292_6116317885801026189.jpg",
+    "start_time": "2024-11-17 23:00:00",
+    "end_time": "2024-12-10 17:59:00",
+    "type": 1
+  },
+  "20830": {
+    "title": "イベント祈願・「神鋳賦形」：「弓・星鷲の紅き羽」「弓・始まりの大魔術」確率UP！",
+    "banner": "https://sdk.hoyoverse.com/upload/ann/2024/11/05/09137ea7e6b052a643655255aacee1e1_4727006092246886056.jpg",
+    "start_time": "2024-11-17 23:00:00",
+    "end_time": "2024-12-10 17:59:00",
+    "type": 1
+  },
+  "20828": {
+    "title": "イベント祈願・「光と影のトリック」：「幻光で惑わすトリック・リネ（炎）」確率UP！",
+    "banner": "https://sdk.hoyoverse.com/upload/ann/2024/11/05/b170e39b5fdb65e0863436ccd803e185_7054263687990683748.jpg",
+    "start_time": "2024-11-17 23:00:00",
+    "end_time": "2024-12-10 17:59:00",
+    "type": 1
+  },
+  "20827": {
+    "title": "イベント祈願・「紅を散らす矢羽」：「巡空の裁翼・チャスカ（風）」確率UP！",
+    "banner": "https://sdk.hoyoverse.com/upload/ann/2024/11/05/d0c7488f81401c1835bf3732b27a1769_7874522909973389063.jpg",
+    "start_time": "2024-11-17 23:00:00",
+    "end_time": "2024-12-10 17:59:00",
+    "type": 1
+  },
+  "20844": {
+    "title": "魔神任務 第五章・幕間「万火、一に帰す」開放",
+    "banner": "https://sdk.hoyoverse.com/upload/ann/2024/11/11/68aae557825c9febbea0faef694e2c34_3695567187783421676.jpg",
+    "start_time": "2024-11-17 23:00:00",
+    "end_time": "2024-12-31 17:00:00",
+    "type": 2
   }
 }
