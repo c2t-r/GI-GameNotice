@@ -1083,5 +1083,19 @@
     "start_time": "2024-11-20 05:00:00",
     "end_time": "2024-12-02 03:59:59",
     "type": 1
+  },
+  "20885": {
+    "title": "アップデートと調整",
+    "banner": "https://sdk.hoyoverse.com/upload/announcement/2020/11/11/5ec5dc80e2429e1dd38d35d56b08a04d_5453296487380915976.jpg",
+    "start_time": "2024-11-20 00:00:00",
+    "end_time": "2024-12-31 23:00:00",
+    "type": 2
+  },
+  "20853": {
+    "title": "戦績やテイワットマップなどのツールにどんな更新があったか早速チェックしよう！",
+    "banner": "https://sdk.hoyoverse.com/upload/ann/2024/11/19/e0b69184bb00078027fdabc3785cfed4_7942090587901799969.jpg",
+    "start_time": "2024-11-20 12:00:00",
+    "end_time": "2024-12-31 16:59:59",
+    "type": 2
   }
 }
