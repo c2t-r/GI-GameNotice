@@ -17,11 +17,8 @@ LANGUAGE = ja // en, ja, es....
 ## Latest Notice
 <start>
 
-### HoYoLAB-「ログインボーナス」機能について
-<img src="https://sdk.hoyoverse.com/upload/ann/2022/12/06/1b24864522e48bf3736f1c1658083e28_8076710891181596635.png">
-<p style="white-space: pre-wrap;">親愛なる旅人さんへ</p><p style="white-space: pre-wrap;">HoYoLABの「ログインボーナス」機能をまだご利用いただいていない旅人さんは、ぜひご活用ください！</p><p style="white-space: pre-wrap;">
-
-[詳細はこちら](https://act.hoyolab.com/ys/event/signin-sea-v3/index.html?act_id=e202102251931481&hyl_auth_required=true&hyl_presentation_style=fullscreen&utm_source=ingame&utm_medium=notice&utm_campaign=checkin&utm_id=2&lang=zh-cn&device_type=pc&game_version=OSRELWin3.8.0_R16698153_S16388687_D16388687&plat_type=pc)
-</p><p style="white-space: pre-wrap; min-height: 1.5em;"></p><p style="white-space: pre-wrap;">HoYoLAB-ツール-原神-ログインボーナスから、ログインボーナスの機能をご利用いただくことで、原石、モラ、大英雄の経験などのゲーム内報酬を毎日ゲットできます。</p><p style="white-space: pre-wrap;">「ログインボーナス」機能を初めて利用する旅人さんは、原石×100、モラ×10,000を獲得できます！</p><p style="white-space: pre-wrap; min-height: 1.5em;"></p><p style="white-space: pre-wrap;">〓利用期間〓</p><p style="white-space: pre-wrap;">期限なし</p><p style="white-space: pre-wrap; min-height: 1.5em;"></p>
+### 【旅人さんのご支援に心からの感謝を！】
+<img src="https://sdk.hoyoverse.com/upload/ann/2024/12/02/ae761230c5454326cb537e17aa6635c2_1581398104852278775.jpg">
+<p style="white-space: pre-wrap;">親愛なる旅人さんへ</p><p style="white-space: pre-wrap; min-height: 1.5em;"></p><p style="white-space: pre-wrap;">思い出に満ちた道のりを振り返り、共に次の旅を歩んでいきましょう。このたび『原神』は皆様からの厚いご支援を受け、「PlayStation® Partner Awards 2024 EXCELLENCE AWARD」を受賞いたしました。</p><p style="white-space: pre-wrap;">感謝の気持ちを込めて2024/12/04から2024/12/08の期間中、「原石」合計1000個をプレゼントいたします！いつも『原神』をご愛顧いただき、ありがとうございます！</p><p style="white-space: pre-wrap; min-height: 1.5em;"></p><p style="white-space: pre-wrap;">〓配布内容〓</p><p style="white-space: pre-wrap;">合計【原石×1000】</p><p style="white-space: pre-wrap;">2024/12/04から2024/12/08の期間中、毎日00:00(サーバー時間)に原石×200をゲーム内メールでプレゼント。</p><p style="white-space: pre-wrap; min-height: 1.5em;"></p><p style="white-space: pre-wrap;">〓配布対象〓</p><p style="white-space: pre-wrap;">原石の受け取り期間はVer.5.2終了までとなります。冒険ランク7以上の旅人さんは、ゲームにログインするとメールを受け取ることができます。</p><p style="white-space: pre-wrap;">メールの有効期限は30日となります。忘れないようご確認ください。</p><p style="white-space: pre-wrap; min-height: 1.5em;"></p><p style="white-space: pre-wrap; min-height: 1.5em;"></p>
 
 <end>
