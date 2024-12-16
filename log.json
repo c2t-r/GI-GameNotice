@@ -1160,5 +1160,19 @@
     "start_time": "2024-12-12 21:00:00",
     "end_time": "2024-12-16 10:59:59",
     "type": 2
+  },
+  "20842": {
+    "title": "イベント・「烈風演習」：戦法を分析し、兵棋演習をクリア",
+    "banner": "https://sdk.hoyoverse.com/upload/ann/2024/11/25/2bcda126f680555e451bdf10b7420621_5812474853195636042.jpg",
+    "start_time": "2024-12-15 23:00:00",
+    "end_time": "2024-12-30 03:59:59",
+    "type": 1
+  },
+  "20912": {
+    "title": "『原神』ナタOST2.0『永遠の太陽、久遠の渇望 Eternal Sun, Eternal Want』正式リリース",
+    "banner": "https://sdk.hoyoverse.com/upload/ann/2024/12/10/07b4613ab3b45ea4c8308573b049ba29_8861139312030861394.jpg",
+    "start_time": "2024-12-16 00:00:00",
+    "end_time": "2024-12-23 00:00:00",
+    "type": 2
   }
 }
