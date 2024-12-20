@@ -17,8 +17,8 @@ LANGUAGE = ja // en, ja, es....
 ## Latest Notice
 <start>
 
-### 『原神』ナタOST2.0『永遠の太陽、久遠の渇望 Eternal Sun, Eternal Want』正式リリース
-<img src="https://sdk.hoyoverse.com/upload/ann/2024/12/10/07b4613ab3b45ea4c8308573b049ba29_8861139312030861394.jpg">
-<p style="white-space: pre-wrap;">親愛なる旅人さんへ</p><p style="white-space: pre-wrap;">『原神』ナタOST2.0 『永遠の太陽、久遠の渇望 Eternal Sun, Eternal Want』がリリースされました。アルバムは『崖と谷の漫歌 Canto General of Cliff and Glen』『天蛇と七炎の響き Echo of Tonatiuh and Uctokah』『空を焼き尽くす戦火 A Fiery Cross Across the Sky』の3枚のディスクで構成され、HOYO-MiXが制作した『原神』ナタ地域のBGMを53曲収録しています。</p><p style="white-space: pre-wrap; min-height: 1.5em;"></p><p style="white-space: pre-wrap;">以下のプラットフォームより、『永遠の太陽、久遠の渇望 Eternal Sun, Eternal Want』をぜひお聴きください。</p><p style="white-space: pre-wrap; min-height: 1.5em;"></p><p style="white-space: pre-wrap;">Spotify：</p><p style="white-space: pre-wrap;"><a href="javascript:miHoYoGameJSSDK.openInBrowser('https://open.spotify.com/album/7MWUhScaYVVFtTIRVxsZUB');" data-type="a" link-type="game_outer" rel="noopener noreferrer nofollow">【『永遠の太陽、久遠の渇望 Eternal Sun, Eternal Want』はこちら】</a></p><p style="white-space: pre-wrap; min-height: 1.5em;"></p><p style="white-space: pre-wrap;">Apple Music：</p><p style="white-space: pre-wrap;"><a href="javascript:miHoYoGameJSSDK.openInBrowser('https://music.apple.com/jp/album/1783697164');" data-type="a" link-type="game_outer" rel="noopener noreferrer nofollow">【『永遠の太陽、久遠の渇望 Eternal Sun, Eternal Want』はこちら】</a></p><p style="white-space: pre-wrap; min-height: 1.5em;"></p><p style="white-space: pre-wrap; min-height: 1.5em;"></p>
+### Ver.5.3「灼烈の反魂の詩」最新情報！
+<img src="https://sdk.hoyoverse.com/upload/ann/2024/12/12/d5834e5f13d3d70701c7beb0305af884_5540158173431655832.jpg">
+<p style="white-space: pre-wrap;">親愛なる旅人さんへ</p><p style="white-space: pre-wrap; min-height: 1.5em;"></p><p style="white-space: pre-wrap;">Ver.5.3「灼烈の反魂の詩」の最新情報はこちらからご確認いただけます。ぜひチェックしてみてください！</p><p style="white-space: pre-wrap;"><a href="javascript:miHoYoGameJSSDK.openInBrowser('https://genshin.hoyoverse.com/?sign_type=2&auth_appid=pz_QaiBDjkyxb&authkey_ver=1&utm_source=ingame&utm_medium=notice');" data-type="a" link-type="game_outer" rel="noopener noreferrer nofollow">Ver.5.3「灼烈の反魂の詩」の最新情報へ</a></p><p style="white-space: pre-wrap; min-height: 1.5em;"></p><p style="white-space: pre-wrap; min-height: 1.5em;"></p>
 
 <end>
