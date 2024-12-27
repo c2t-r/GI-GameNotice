@@ -1195,5 +1195,19 @@
     "start_time": "2024-12-25 12:00:00",
     "end_time": "2024-12-31 23:59:59",
     "type": 2
+  },
+  "20951": {
+    "title": "バージョン満足度アンケート調査実施中",
+    "banner": "https://sdk.hoyoverse.com/upload/ann/2022/10/24/9f0daebffad38a55c60a1cd7c518d693_3451760669886321601.jpg",
+    "start_time": "2024-12-26 21:00:00",
+    "end_time": "2024-12-30 10:59:59",
+    "type": 2
+  },
+  "20922": {
+    "title": "「マーヴィカ：訓練の日」——『原神』新キャラクター「マーヴィカ」のWebイベント開催！",
+    "banner": "https://sdk.hoyoverse.com/upload/ann/2024/12/24/434f137ee95349ca334faac6ddb01bd7_4734056413813705061.jpg",
+    "start_time": "2024-12-26 23:00:00",
+    "end_time": "2025-01-02 10:59:59",
+    "type": 2
   }
 }
