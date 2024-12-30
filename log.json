@@ -1216,5 +1216,110 @@
     "start_time": "2024-12-29 04:00:00",
     "end_time": "2025-01-05 16:59:59",
     "type": 2
+  },
+  "20914": {
+    "title": "Ver.5.3バージョンアップのお知らせ",
+    "banner": "https://sdk.hoyoverse.com/upload/ann/2024/12/03/c24d6da5527f40502a98e54ac9b76add_6883518866022967546.jpg",
+    "start_time": "2024-12-29 22:05:00",
+    "end_time": "2024-12-31 17:00:00",
+    "type": 2
+  },
+  "20906": {
+    "title": "「冒険助力パック」第37期 期間限定発売",
+    "banner": "https://sdk.hoyoverse.com/upload/ann/2024/12/19/94bb25ae8c5777aa89f4be1c1d5f9b1d_1911648543611523388.png",
+    "start_time": "2024-12-29 23:00:00",
+    "end_time": "2025-01-15 23:59:59",
+    "type": 1
+  },
+  "20903": {
+    "title": "イベント・「灼魂紀行」",
+    "banner": "https://sdk.hoyoverse.com/upload/ann/2024/12/19/ed0630243dc2112fdeee432acc61f274_8122455218039002439.png",
+    "start_time": "2024-12-29 23:00:00",
+    "end_time": "2025-02-10 03:59:59",
+    "type": 1
+  },
+  "20905": {
+    "title": "コスチューム「残雪に咲く紅」限定セール",
+    "banner": "https://sdk.hoyoverse.com/upload/ann/2024/12/19/b7628f75d6999bdb9ef6c2f86bfb9611_8076503810631785406.png",
+    "start_time": "2024-12-29 23:00:00",
+    "end_time": "2025-02-10 03:59:59",
+    "type": 1
+  },
+  "20900": {
+    "title": "「流れゆく色の記憶」：期間中に見聞任務をクリアすると、追加で原石、キャラクター突破素材などの報酬を獲得可能",
+    "banner": "https://sdk.hoyoverse.com/upload/ann/2024/12/19/53e2b6bbdd2dadeb498bbfcabefd1708_1326657450195326399.png",
+    "start_time": "2024-12-29 23:00:00",
+    "end_time": "2025-01-21 17:59:00",
+    "type": 1
+  },
+  "20902": {
+    "title": "「あの烈日のように」：期間中に伝説任務をクリアすると、追加で原石、キャラクター突破素材などの報酬を獲得可能",
+    "banner": "https://sdk.hoyoverse.com/upload/ann/2024/12/19/7d9e822180034ecbe294ce2332fe2ade_6426932970867844122.png",
+    "start_time": "2024-12-29 23:00:00",
+    "end_time": "2025-01-21 17:59:00",
+    "type": 1
+  },
+  "20904": {
+    "title": "「灼烈の反魂の詩」：期間中に魔神任務をクリアすると、追加で原石×500を獲得可能",
+    "banner": "https://sdk.hoyoverse.com/upload/ann/2024/12/19/47acde33eaae57e77aa6f8c545f060a1_2274984920552410146.png",
+    "start_time": "2024-12-29 23:00:00",
+    "end_time": "2025-02-11 14:59:59",
+    "type": 1
+  },
+  "20893": {
+    "title": "集録祈願・「玉岩の憶」開催！",
+    "banner": "https://sdk.hoyoverse.com/upload/ann/2024/12/19/ef1bd4eec273b0dd12444df9c8c9c625_386706666490882186.png",
+    "start_time": "2024-12-29 23:00:00",
+    "end_time": "2025-02-11 14:59:59",
+    "type": 1
+  },
+  "20894": {
+    "title": "イベント祈願・「神鋳賦形」：「長柄武器・赤月のシルエット」「片手剣・赦罪」確率UP！",
+    "banner": "https://sdk.hoyoverse.com/upload/ann/2024/12/19/c6a07ece6b31d35ee46ed93707d7ede0_2511446537550367222.png",
+    "start_time": "2024-12-29 23:00:00",
+    "end_time": "2025-02-11 14:59:59",
+    "type": 1
+  },
+  "20957": {
+    "title": "イベント祈願・「夜を穿つ流霆」：「燭火を携えた影の狩人・クロリンデ（雷）」確率UP！",
+    "banner": "https://sdk.hoyoverse.com/upload/ann/2024/12/26/d9739c2d5c39514aa3ee05d9f1dca588_361224471996367650.png",
+    "start_time": "2024-12-29 23:00:00",
+    "end_time": "2025-02-11 14:59:59",
+    "type": 1
+  },
+  "20956": {
+    "title": "イベント祈願・「炉傍の残影」：「暝天の凶月・アルレッキーノ（炎）」確率UP！",
+    "banner": "https://sdk.hoyoverse.com/upload/ann/2024/12/26/55fd3ec1ae82f9ce05ef9d3d4c658bac_2667557875022083371.png",
+    "start_time": "2024-12-29 23:00:00",
+    "end_time": "2025-02-11 14:59:59",
+    "type": 1
+  },
+  "20898": {
+    "title": "イベント祈願・「神鋳賦形」：「両手剣・千烈の日輪」「法器・祭星者の眺め」確率UP！",
+    "banner": "https://sdk.hoyoverse.com/upload/ann/2024/12/19/beb9451c19c977edd331cb9b2c4e8518_9048655335567075644.png",
+    "start_time": "2024-12-29 23:00:00",
+    "end_time": "2025-01-21 17:59:00",
+    "type": 1
+  },
+  "20890": {
+    "title": "イベント祈願・「星夜のささやき」：「白星黒曜・シトラリ（氷）」確率UP！",
+    "banner": "https://sdk.hoyoverse.com/upload/ann/2024/12/19/0b4a5a5902becc4ac88b1d0b13b5f5b8_4445892529620348831.png",
+    "start_time": "2024-12-29 23:00:00",
+    "end_time": "2025-01-21 17:59:00",
+    "type": 1
+  },
+  "20889": {
+    "title": "イベント祈願・「古に宿る烈炎」：「夜を焼き尽くす炎・マーヴィカ（炎）」確率UP！",
+    "banner": "https://sdk.hoyoverse.com/upload/ann/2024/12/19/88ec09c27992537927b0b9f12f300c86_5515920159803112377.png",
+    "start_time": "2024-12-29 23:00:00",
+    "end_time": "2025-01-21 17:59:00",
+    "type": 1
+  },
+  "20908": {
+    "title": "魔神任務 第五章・第五幕 開放",
+    "banner": "https://sdk.hoyoverse.com/upload/ann/2024/12/13/afe537982f3bc6899dc9c40a5ee6677a_470990705774329866.jpg",
+    "start_time": "2024-12-29 23:00:00",
+    "end_time": "2025-02-11 17:00:00",
+    "type": 2
   }
 }

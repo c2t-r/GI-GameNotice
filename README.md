@@ -17,8 +17,8 @@ LANGUAGE = ja // en, ja, es....
 ## Latest Notice
 <start>
 
-### HoYoFair2025 年越し・原神同人特別番組「異次元探偵の事件簿」
-<img src="https://sdk.hoyoverse.com/upload/ann/2024/12/24/de91b5c22781ac71c3b99beb2e2c04c4_9130114605074546001.png">
-<p style="white-space: pre-wrap;">旅人さん、こんにちは！クリエイターさんたちの共同制作による、HoYoFair2025 年越し・原神同人特別番組「異次元探偵の事件簿」が公開されました！</p><p style="white-space: pre-wrap; min-height: 1.5em;"></p><p style="white-space: pre-wrap;"><a href="javascript:miHoYoGameJSSDK.openInBrowser('https://youtu.be/sc6-BNp8ADk');" data-type="a" link-type="game_outer" rel="noopener noreferrer nofollow">>>こちらからご覧いただけます<<</a></p><p style="white-space: pre-wrap; min-height: 1.5em;"></p><p style="white-space: pre-wrap;">素敵な作品を届けてくださった『原神』を愛するクリエイターの皆さまに心より感謝を申し上げます。旅人さんも、ぜひ各プラットフォームからいいねやコメントを送って応援しましょう！</p><p style="white-space: pre-wrap;">（※同人作品はいずれも二次創作作品です。実際のゲームストーリーや設定とは一切関係がありません。）</p><p style="white-space: pre-wrap; min-height: 1.5em;"></p><p style="white-space: pre-wrap; min-height: 1.5em;"></p>
+### 魔神任務 第五章・第五幕 開放
+<img src="https://sdk.hoyoverse.com/upload/ann/2024/12/13/afe537982f3bc6899dc9c40a5ee6677a_470990705774329866.jpg">
+<p style="white-space: pre-wrap;">戦いは終盤に差し掛かり、無数の視線が英雄の背に集まる。</p><p style="white-space: pre-wrap;">数多の「宿命」と「ルール」に満ちたこの地では、その一歩一歩が常に困難を極める。</p><p style="white-space: pre-wrap;">それでも「太陽」は宣言した——人類の新たな歴史を迎える代償として、すべての枷を己とともに焼き尽くすと…</p><p style="white-space: pre-wrap; min-height: 1.5em;"></p><p style="white-space: pre-wrap;">必要な冒険ランクに到達し、前提任務をクリアすると、任務-魔神任務より第五章・第五幕「灼烈の反魂の詩」を確認することができます。</p><p style="white-space: pre-wrap; min-height: 1.5em;"></p><p style="white-space: pre-wrap;">〓任務開放時間〓</p><p style="white-space: pre-wrap;">Ver.5.3更新後、魔神任務 第五章・第五幕「灼烈の反魂の詩」が開放されます。</p><p style="white-space: pre-wrap; min-height: 1.5em;"></p><p style="white-space: pre-wrap;">〓魔神任務 第五章・第五幕「灼烈の反魂の詩」開放条件〓</p><p style="white-space: pre-wrap;">•冒険ランク28以上</p><p style="white-space: pre-wrap;">•魔神任務 第五章・幕間「万火、一に帰す」をクリア</p><p style="white-space: pre-wrap;">•この任務では「集中プレイモード」を利用可能です</p><p style="white-space: pre-wrap; min-height: 1.5em;"></p><p style="white-space: pre-wrap;">「クイックスタート」機能をご利用いただくと、進行中の魔神任務の進捗を維持しつつ、同時に魔神任務 第五章・第一幕「栄華と炎天の途」を進められます。「クイックスタート」機能を利用して魔神任務 第五章・第一幕をクリアした後、さらに第五章の続きの任務を進めると、本バージョンで開放された新しい魔神任務を開放できます。</p>
 
 <end>
