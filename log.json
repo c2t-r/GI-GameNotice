@@ -1377,5 +1377,12 @@
     "start_time": "2025-01-01 12:00:00",
     "end_time": "2025-02-11 16:59:59",
     "type": 2
+  },
+  "20986": {
+    "title": "アップデートと調整",
+    "banner": "https://sdk.hoyoverse.com/upload/announcement/2020/11/11/5ec5dc80e2429e1dd38d35d56b08a04d_5453296487380915976.jpg",
+    "start_time": "2025-01-01 00:00:00",
+    "end_time": "2025-02-11 23:00:00",
+    "type": 2
   }
 }
