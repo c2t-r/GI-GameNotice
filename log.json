@@ -1321,5 +1321,26 @@
     "start_time": "2024-12-29 23:00:00",
     "end_time": "2025-02-11 17:00:00",
     "type": 2
+  },
+  "20821": {
+    "title": "「交錯する運命の翼」風の翼配布のお知らせ",
+    "banner": "https://sdk.hoyoverse.com/upload/ann/2024/10/17/1f4616c99be17c89fab2ccc57979c172_7153317073302208771.jpg",
+    "start_time": "2024-12-31 18:00:00",
+    "end_time": "2025-01-01 11:00:00",
+    "type": 2
+  },
+  "20907": {
+    "title": "Ver.5.3「灼烈の反魂の詩」正式リリース",
+    "banner": "https://sdk.hoyoverse.com/upload/ann/2024/12/20/8bb806d653c96058db5bb0fecae3cfb4_848687630625748503.jpg",
+    "start_time": "2024-12-31 18:00:00",
+    "end_time": "2025-02-11 17:00:00",
+    "type": 2
+  },
+  "20965": {
+    "title": "Ver.5.3最新情報一覧",
+    "banner": "",
+    "start_time": "2024-12-31 19:00:00",
+    "end_time": "2025-01-21 05:00:00",
+    "type": 2
   }
 }
