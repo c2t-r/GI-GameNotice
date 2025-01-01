@@ -17,8 +17,8 @@ LANGUAGE = ja // en, ja, es....
 ## Latest Notice
 <start>
 
-### Ver.5.3最新情報一覧
-<img src="">
-<p style="white-space: pre-wrap; min-height: 1.5em; text-align: center;"><img src="https://sdk.hoyoverse.com/upload/ann/2024/12/30/5791a362cd1bf1a2ae9f91336dbbe951_5061928255313022825.jpg" href="" style="vertical-align:middle;"></p><p style="white-space: pre-wrap; min-height: 1.5em; text-align: center;"><img src="https://sdk.hoyoverse.com/upload/ann/2024/12/30/54f3ac81ccfcf0f1c3c7fa9a2f96c160_971973339183223155.jpg" href="" style="vertical-align:middle;"><img src="https://sdk.hoyoverse.com/upload/ann/2024/12/30/86b8573a67990ac5e9f678a9b0beeb4d_2492620386540147219.jpg" href="" style="vertical-align:middle;"></p>
+### 『原神』キャラクター「マーヴィカ」のトレーラーソングEP『Blazing Heart』正式リリース
+<img src="https://sdk.hoyoverse.com/upload/ann/2024/12/20/29211aa5ab5ac8d4361c018aff6bdf77_725335666957471647.jpg">
+<p style="white-space: pre-wrap;">親愛なる旅人さんへ</p><p style="white-space: pre-wrap;">『原神』キャラクター「マーヴィカ」のトレーラーソングEP『Blazing Heart』が正式リリースされました。本アルバムはHOYO-MiXによる制作です。<br>歌唱（敬称略）<br>中国語Ver. Tia Ray<br>英語Ver.　 Chrissy Costanza<br>日本語Ver. 小松未可子<br>韓国語Ver. MIYEON/(G)I-DLE</p><p style="white-space: pre-wrap; min-height: 1.5em;"></p><p style="white-space: pre-wrap;">以下のプラットフォームより、『Blazing Heart』をぜひお聴きください。</p><p style="white-space: pre-wrap; min-height: 1.5em;"></p><p style="white-space: pre-wrap;">Spotify：</p><p style="white-space: pre-wrap;"><a href="javascript:miHoYoGameJSSDK.openInBrowser('https://open.spotify.com/album/3kfIRLR8GzuK52xhubeFXW');" data-type="a" link-type="game_outer" rel="noopener noreferrer nofollow">【『Blazing Heart』はこちら】</a></p><p style="white-space: pre-wrap; min-height: 1.5em;"></p><p style="white-space: pre-wrap;">Apple Music：</p><p style="white-space: pre-wrap;"><a href="javascript:miHoYoGameJSSDK.openInBrowser('https://music.apple.com/jp/album/1786568437');" data-type="a" link-type="game_outer" rel="noopener noreferrer nofollow">【『Blazing Heart』はこちら】</a></p><p style="white-space: pre-wrap; min-height: 1.5em;"></p><p style="white-space: pre-wrap; min-height: 1.5em;"></p>
 
 <end>
