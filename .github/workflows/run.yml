@@ -26,18 +26,25 @@ jobs:
         run: echo "{ \"name\":\"${{ secrets.NAME }}\", \"webhook\":\"${{ secrets.WEBHOOK }}\", \"language\":\"${{ secrets.LANGUAGE }}\" }" > settings.json
 
       - name: Execute main script
-        run: python3 main.py
+        run: |
+          python3 main.py
+          if [ -f "commit.txt" ];
+          then
+            echo "COMMIT_TITLE=$(<commit.txt)" >> $GITHUB_ENV
+            echo $(<commit.txt)
+          fi
 
       - name: Commit update
+        if: env.COMMIT_TITLE != ''
         run: |
+          git add -N log
           git add -N README.md
-          git add -N log.json
           if ! git diff --exit-code --quiet
           then
+            git config user.name c2tr
+            git config user.email 80561604+github-actions@users.noreply.github.com
+            git add log
             git add README.md
-            git add log.json
-            git config user.name github-actions[bot]
-            git config user.email action@github.com
-            git commit -m "Update latest notice"
+            git commit -m "${{ env.COMMIT_TITLE }}"
             git push
           fi

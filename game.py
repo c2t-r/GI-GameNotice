@@ -50,7 +50,7 @@ async def game(name, lang) -> tuple[bool, list[dict]]:
             if not is_saved:
                 with open("README.md", "r", encoding="utf-8") as f:
                     readme = f.read()
-                readme = sub(r'## Latest Notice\n*[\s\S]*?\n*<end>', f'## Latest Notice\n[{ann_content["title"]}](log/{ann_content["ann_id"]}.md)\n<end>', readme)
+                readme = sub(r'## Latest Announcement\n*[\s\S]*?\n*<end>', f'## Latest Announcement\n[{ann_content["title"]}](log/{ann_content["ann_id"]}.md)\n<end>', readme)
                 with open("README.md", "w", encoding="utf-8") as f:
                     f.write(readme)
                 is_saved = True

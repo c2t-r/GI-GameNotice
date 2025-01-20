@@ -23,13 +23,17 @@ def main(m):
     status, content = asyncio.run(game(m["name"], m["language"]))
 
     if not status:
-        print(timeStr, f'failed to run {m["name"]}')
+        print(timeStr, "something failed...")
+    
+    if content:
+        with open("commit.txt", "w", encoding="utf-8") as f:
+            f.write(f'{len(content)} new announcement{"s" if len(content) > 1 else ""} added')
 
     for i in content:
         response = sendDiscord(m["webhook"], i)
         print(timeStr, response)
         if not response.ok:
-            print(i)
+            print(response.text)
         sleep(5)
 
 main(settings)
