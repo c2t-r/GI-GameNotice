@@ -1,4 +1,6 @@
 from requests import get
+from markdownify import markdownify as md
+from re import sub
 import util
 import data
 
@@ -28,6 +30,7 @@ async def game(name, lang) -> tuple[bool, list[dict]]:
     content_list = content_obj["data"]["list"]
 
     contents = []
+    is_saved = False
     for ann in ann_list:
         embed = {
             "color": 0x38f4af,
@@ -44,9 +47,17 @@ async def game(name, lang) -> tuple[bool, list[dict]]:
             embed["image"]["url"] = ann_content["banner"]
             embed["fields"] = []
 
+            if not is_saved:
+                with open("README.md", "r", encoding="utf-8") as f:
+                    readme = f.read()
+                readme = sub(r'## Latest Notice\n*[\s\S]*?\n*<end>', f'## Latest Notice\n[{ann_content["title"]}](log/{ann_content["ann_id"]}.md)\n<end>', readme)
+                with open("README.md", "w", encoding="utf-8") as f:
+                    f.write(readme)
+                is_saved = True
+
             data.update(ann_content)
 
-            text = util.unHtml(ann_content["content"])
+            text = md(ann_content["content"])
             for s in util.splitbylength(text, 1000):
                 embed["fields"].append({ "name": "", "value": s })
         contents.append({ "username": name+f' No.{ann["ann_id"]}', "embeds": [embed] })

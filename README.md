@@ -13,3 +13,7 @@ LANGUAGE = ja // en, ja, es....
 4. Enjoy!
 
 ![image](https://github.com/c2t-r/GI-GameNotice/assets/80561604/24ec6182-cd99-4969-ab59-1d65c886077a)
+
+## Latest Notice
+[イベント「富貴登門・春の兆し」：ログインで原石×1,600、紡がれた運命×10などの報酬を獲得](log/20892.md)
+<end>

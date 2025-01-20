@@ -1,7 +1,5 @@
 from os.path import isfile, join as pathjoin
 from os import makedirs
-from json import load, dump
-from re import sub
 from html import unescape as unhtmlescape
 import util
 
