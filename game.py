@@ -62,4 +62,4 @@ async def game(name, lang) -> tuple[bool, list[dict]]:
                 embed["fields"].append({ "name": "", "value": s })
         contents.append({ "username": name+f' No.{ann["ann_id"]}', "embeds": [embed] })
 
-    return True, reversed(contents)
+    return True, contents[::-1]
