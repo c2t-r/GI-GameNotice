@@ -15,5 +15,5 @@ LANGUAGE = ja // en, ja, es....
 ![image](https://github.com/c2t-r/GI-GameNotice/assets/80561604/24ec6182-cd99-4969-ab59-1d65c886077a)
 
 ## Latest Announcement
-[イベント・「春光が描く桃符」：香菱のコスチューム及び璃月★4キャラクターを獲得可能](log/20891.md)
+[海灯祭トピックキャンペーン開催！参加して原石、モラをゲットするチャンス！](log/20923.md)
 <end>
