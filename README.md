@@ -15,5 +15,5 @@ LANGUAGE = ja // en, ja, es....
 ![image](https://github.com/c2t-r/GI-GameNotice/assets/80561604/24ec6182-cd99-4969-ab59-1d65c886077a)
 
 ## Latest Announcement
-[海灯祭トピックキャンペーン開催！参加して原石、モラをゲットするチャンス！](log/20923.md)
+[Ver.5.4「夢見る月明かり」最新情報！](log/21011.md)
 <end>
