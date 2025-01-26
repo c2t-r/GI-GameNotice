@@ -15,5 +15,5 @@ LANGUAGE = ja // en, ja, es....
 ![image](https://github.com/c2t-r/GI-GameNotice/assets/80561604/24ec6182-cd99-4969-ab59-1d65c886077a)
 
 ## Latest Announcement
-[Ver.5.4「夢見る月明かり」最新情報！](log/21011.md)
+[Webイベント「スレスレ籐人形」開催！海灯祭を満喫して、原石をゲットしよう！](log/20953.md)
 <end>
