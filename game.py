@@ -51,7 +51,8 @@ async def game(name, lang) -> tuple[bool, list[dict]]:
 
             added_list.append(f'[{ann_content["title"]}](log/{ann_content["ann_id"]}.md)')
 
-            text = md(ann_content["content"])
+            text = util.embUrl(ann_content["content"])
+            text = md(text)
             for s in util.splitbylength(text, 1000):
                 embed["fields"].append({ "name": "", "value": s })
         contents.append({ "username": name+f' No.{ann["ann_id"]}', "embeds": [embed] })
@@ -59,7 +60,8 @@ async def game(name, lang) -> tuple[bool, list[dict]]:
     if added_list:
         with open("README.md", "r", encoding="utf-8") as f:
             readme = f.read()
-        readme = sub(r'## Recent Announcements\n*[\s\S]*?\n*<end>', f'## Recent Announcements\n{"\n".join(added_list)}\n<end>', readme)
+        announcements = "\n".join(added_list)
+        readme = sub(r'## Recent Announcements\n*[\s\S]*?\n*<end>', f'## Recent Announcements\n{announcements}\n<end>', readme)
         with open("README.md", "w", encoding="utf-8") as f:
             f.write(readme)
 
