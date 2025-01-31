@@ -28,4 +28,4 @@ def splitbylength(text: str, length: int):
         return _list
 
 def embUrl(text: str):
-    return sub(r'<a href=".*?\(\'(.+?)\'\);">(.+?)</a>', "\n\n[\\2](\\1)\n", text) # embed url
+    return sub(r'<a href=".*?\(\'(.+?)\'\);"\s*.*?>(.+?)</a>', "\n\n[\\2](\\1)\n", text) # embed url
