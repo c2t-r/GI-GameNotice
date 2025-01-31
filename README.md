@@ -1,5 +1,9 @@
 # GI-GameNotice
 
+## Recent Announcements
+[Webイベント「スレスレ籐人形」開催！海灯祭を満喫して、原石をゲットしよう！](log/20953.md)
+<end>
+
 ## Usage
 1. Fork this repo
 2. Add secrets
@@ -13,7 +17,3 @@ LANGUAGE = ja // en, ja, es....
 4. Enjoy!
 
 ![image](https://github.com/c2t-r/GI-GameNotice/assets/80561604/24ec6182-cd99-4969-ab59-1d65c886077a)
-
-## Latest Announcement
-[Webイベント「スレスレ籐人形」開催！海灯祭を満喫して、原石をゲットしよう！](log/20953.md)
-<end>
