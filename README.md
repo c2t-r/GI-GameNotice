@@ -1,7 +1,7 @@
 # GI-GameNotice
 
 ## Recent Announcements
-[Webイベント「スレスレ籐人形」開催！海灯祭を満喫して、原石をゲットしよう！](log/20953.md)
+[イベント・「豊材の奔流」：天賦育成素材、武器突破素材2倍ドロップ](log/20888.md)
 <end>
 
 ## Usage
