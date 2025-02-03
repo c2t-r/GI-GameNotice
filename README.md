@@ -1,7 +1,7 @@
 # GI-GameNotice
 
 ## Recent Announcements
-[イベント・「豊材の奔流」：天賦育成素材、武器突破素材2倍ドロップ](log/20888.md)
+[HoYoLAB-「ログインボーナス」機能について](log/20974.md)
 <end>
 
 ## Usage
