@@ -1,7 +1,7 @@
 # GI-GameNotice
 
 ## Recent Announcements
-[テイワットマップなどのツールにどんな更新があったか早速チェックしよう！](log/21009.md)
+[アップデートと調整](log/21038.md)
 <end>
 
 ## Usage
