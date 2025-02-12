@@ -1,8 +1,7 @@
 # GI-GameNotice
 
 ## Recent Announcements
-[Ver.5.4最新情報一覧](log/21031.md)
-[Ver.5.4「夢見る月明かり」正式リリース](log/20988.md)
+[イベント「三川遊芸夢綺譚」：限定武器「長柄武器・玉響停の御噺」を獲得可能](log/20997.md)
 <end>
 
 ## Usage
