@@ -8,7 +8,11 @@ header = {
     "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36",
 }
 
-async def game(name, lang) -> tuple[bool, list[dict]]:
+async def game(settings) -> tuple[bool, list[dict]]:
+    name = settings["name"]
+    lang = settings["language"]
+    repo = settings["repo"]
+
     url = f'https://sg-hk4e-api.hoyoverse.com/common/hk4e_global/announcement/api/getAnnList?game=hk4e&game_biz=hk4e_global&lang={lang}&bundle_id=hk4e_global&level=60&platform=pc&region=os_usa&uid=1'
     response = get(url, headers=header)
     if not response:
@@ -43,7 +47,7 @@ async def game(name, lang) -> tuple[bool, list[dict]]:
         ann_content = util.find(content_list, lambda x: x["ann_id"] == ann["ann_id"])
 
         if ann_content:
-            embed["title"] = ann_content["title"]
+            embed["title"] = f'[{ann_content["title"]}](https://github.com/{repo}/tree/main/log/{ann_content["ann_id"]}.md'
             embed["image"]["url"] = ann_content["banner"]
             embed["fields"] = []
 
@@ -55,12 +59,12 @@ async def game(name, lang) -> tuple[bool, list[dict]]:
             text = md(text)
             for s in util.splitbylength(text, 1000):
                 embed["fields"].append({ "name": "", "value": s })
-        contents.append({ "username": name+f' No.{ann["ann_id"]}', "embeds": [embed] })
+        contents.append({ "username": f'{name} No.{ann["ann_id"]}', "embeds": [embed] })
 
     if added_list:
         with open("README.md", "r", encoding="utf-8") as f:
             readme = f.read()
-        announcements = "\n".join(added_list)
+        announcements = "  \n".join(added_list)
         readme = sub(r'## Recent Announcements\n*[\s\S]*?\n*<end>', f'## Recent Announcements\n{announcements}\n<end>', readme)
         with open("README.md", "w", encoding="utf-8") as f:
             f.write(readme)

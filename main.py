@@ -15,12 +15,12 @@ def sendDiscord(webhook_url, content: dict):
 with open("settings.json", "r") as f:
     settings = json.load(f)
 
-def main(m):
+def main(settings):
     now = datetime.datetime.now()
     timeStr = now.isoformat(" ", timespec="seconds")
 
-    print(timeStr, f'running {m["name"]}')
-    status, content = asyncio.run(game(m["name"], m["language"]))
+    print(timeStr, f'running {settings["name"]}')
+    status, content = asyncio.run(game(settings))
 
     if not status:
         print(timeStr, "something failed...")
