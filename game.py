@@ -47,7 +47,8 @@ async def game(settings) -> tuple[bool, list[dict]]:
         ann_content = util.find(content_list, lambda x: x["ann_id"] == ann["ann_id"])
 
         if ann_content:
-            embed["title"] = f'[{ann_content["title"]}](https://github.com/{repo}/tree/main/log/{ann_content["ann_id"]}.md'
+            embed["title"] = ann_content["title"]
+            embed["url"] = f'https://github.com/{repo}/tree/main/log/{ann_content["ann_id"]}.md'
             embed["image"]["url"] = ann_content["banner"]
             embed["fields"] = []
 
