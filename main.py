@@ -30,7 +30,7 @@ def main(settings):
             f.write(f'{len(content)} new announcement{"s" if len(content) > 1 else ""} added')
 
     for i in content:
-        response = sendDiscord(m["webhook"], i)
+        response = sendDiscord(settings["webhook"], i)
         print(timeStr, response)
         if not response.ok:
             print(response.text)
