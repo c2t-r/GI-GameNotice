@@ -1,7 +1,7 @@
 # GI-GameNotice
 
 ## Recent Announcements
-[アップデートと調整](log/21038.md)
+[「七聖召喚」熱闘モード：オートメーション対局](log/20837.md)
 <end>
 
 ## Usage
