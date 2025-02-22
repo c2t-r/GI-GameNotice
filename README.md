@@ -1,7 +1,7 @@
 # GI-GameNotice
 
 ## Recent Announcements
-[「七聖召喚」熱闘モード：オートメーション対局](log/20837.md)
+[イベント「征け！練武の地」：名刺の飾り紋を獲得可能](log/20998.md)
 <end>
 
 ## Usage
