@@ -1,8 +1,7 @@
 # GI-GameNotice
 
 ## Recent Announcements
-[HoYoLAB-「ログインボーナス」機能について](log/21055.md)  
-[イベント「外来魚オサラバ大作戦」：外来種の魚を捕まえよう](log/21002.md)
+[イベントアンケート調査実施中](log/21060.md)
 <end>
 
 ## Usage
