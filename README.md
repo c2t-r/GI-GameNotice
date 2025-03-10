@@ -1,7 +1,7 @@
 # GI-GameNotice
 
 ## Recent Announcements
-[イベントアンケート調査実施中](log/21060.md)
+[イベント「プロモ・アド・ベンチャー」：クリエイティブな広告を制作しよう](log/21003.md)
 <end>
 
 ## Usage
