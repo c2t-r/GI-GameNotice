@@ -1,7 +1,7 @@
 # GI-GameNotice
 
 ## Recent Announcements
-[イベント「プロモ・アド・ベンチャー」：クリエイティブな広告を制作しよう](log/21003.md)
+[Ver.5.5「群炎の還る日」最新情報！](log/21061.md)
 <end>
 
 ## Usage
