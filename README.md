@@ -1,7 +1,7 @@
 # GI-GameNotice
 
 ## Recent Announcements
-[Ver.5.5「群炎の還る日」最新情報！](log/21061.md)
+[イベント・「地脈の奔流」：「蔵金の花」「啓示の花」2倍ドロップ！](log/3364.md)
 <end>
 
 ## Usage
