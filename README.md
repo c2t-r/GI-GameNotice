@@ -1,7 +1,7 @@
 # GI-GameNotice
 
 ## Recent Announcements
-[イベント・「地脈の奔流」：「蔵金の花」「啓示の花」2倍ドロップ！](log/3364.md)
+[バージョン満足度アンケート調査実施中](log/21069.md)
 <end>
 
 ## Usage
