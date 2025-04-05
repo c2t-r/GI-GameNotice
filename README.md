@@ -1,8 +1,7 @@
 # GI-GameNotice
 
 ## Recent Announcements
-[HoYoLAB-「ログインボーナス」機能について](log/21097.md)  
-[「七聖召喚」熱闘モード：妙策！陣形バトル](log/20748.md)
+[イベント「無差別格闘トーナメント」：地下で繰り広げられる激闘](log/21047.md)
 <end>
 
 ## Usage
