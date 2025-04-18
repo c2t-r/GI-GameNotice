@@ -1,7 +1,7 @@
 # GI-GameNotice
 
 ## Recent Announcements
-[イベント「祈聖の奔流」：聖遺物2倍ドロップ](log/21053.md)
+[イベントアンケート調査実施中](log/21119.md)
 <end>
 
 ## Usage
