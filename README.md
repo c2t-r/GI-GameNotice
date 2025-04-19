@@ -1,7 +1,7 @@
 # GI-GameNotice
 
 ## Recent Announcements
-[イベントアンケート調査実施中](log/21119.md)
+[イベント「たぎれ！奇妙な競技場」：マルチ挑戦を楽しもう](log/21052.md)
 <end>
 
 ## Usage
