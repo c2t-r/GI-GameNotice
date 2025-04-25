@@ -1,7 +1,7 @@
 # GI-GameNotice
 
 ## Recent Announcements
-[イベント「たぎれ！奇妙な競技場」：マルチ挑戦を楽しもう](log/21052.md)
+[Ver.5.6「背理」最新情報！](log/21121.md)
 <end>
 
 ## Usage
