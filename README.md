@@ -1,7 +1,7 @@
 # GI-GameNotice
 
 ## Recent Announcements
-[Ver.5.6「背理」最新情報！](log/21121.md)
+[イベント「ビートボール・メツトリ編」：元素を活用して打ち返そう](log/21051.md)
 <end>
 
 ## Usage
