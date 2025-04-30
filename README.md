@@ -1,7 +1,7 @@
 # GI-GameNotice
 
 ## Recent Announcements
-[イベント「ビートボール・メツトリ編」：元素を活用して打ち返そう](log/21051.md)
+[『原神』ナタOST3.0『夜を照らす焔 Radiance Aflame』正式リリース](log/21127.md)
 <end>
 
 ## Usage
