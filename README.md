@@ -1,7 +1,7 @@
 # GI-GameNotice
 
 ## Recent Announcements
-[『原神』ナタOST3.0『夜を照らす焔 Radiance Aflame』正式リリース](log/21127.md)
+[バージョン満足度アンケート調査実施中](log/21134.md)
 <end>
 
 ## Usage
