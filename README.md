@@ -1,8 +1,7 @@
 # GI-GameNotice
 
 ## Recent Announcements
-[Ver.5.6最新情報一覧](log/21148.md)  
-[Ver.5.6「背理」正式リリース](log/21101.md)
+[イベント「ハーモニック・ワルツ」：限定武器「弓・冷寂の音」を獲得可能](log/21110.md)
 <end>
 
 ## Usage
