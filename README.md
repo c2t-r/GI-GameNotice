@@ -1,8 +1,7 @@
 # GI-GameNotice
 
 ## Recent Announcements
-[原神専用ツールにどんな更新があったか早速チェックしよう！](log/21124.md)  
-[アップデートと調整](log/21156.md)
+[「七聖召喚」熱闘モード：オートメーション対局](log/21111.md)
 <end>
 
 ## Usage
