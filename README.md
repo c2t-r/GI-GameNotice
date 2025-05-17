@@ -1,7 +1,7 @@
 # GI-GameNotice
 
 ## Recent Announcements
-[「七聖召喚」熱闘モード：オートメーション対局](log/21111.md)
+[イベント「豪雨演習」：戦闘演習ゲーム](log/21112.md)
 <end>
 
 ## Usage
