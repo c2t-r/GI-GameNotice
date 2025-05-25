@@ -1,7 +1,7 @@
 # GI-GameNotice
 
 ## Recent Announcements
-[ログイン異常について](log/21177.md)
+[イベント「智将戦記」：チーム編成を楽しむ挑戦](log/21116.md)
 <end>
 
 ## Usage
