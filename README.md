@@ -1,7 +1,7 @@
 # GI-GameNotice
 
 ## Recent Announcements
-[イベント「智将戦記」：チーム編成を楽しむ挑戦](log/21116.md)
+[イベントアンケート調査実施中](log/21178.md)
 <end>
 
 ## Usage
