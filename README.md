@@ -1,7 +1,8 @@
 # GI-GameNotice
 
 ## Recent Announcements
-[イベントアンケート調査実施中](log/21178.md)
+[HoYoLAB-「ログインボーナス」機能について](log/21193.md)  
+[イベント「灼熱伝説・クロスオーバー大乱闘」：マルチで楽しむクロスオーバーチャレンジ](log/21117.md)
 <end>
 
 ## Usage
