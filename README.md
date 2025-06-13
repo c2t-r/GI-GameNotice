@@ -1,7 +1,8 @@
 # GI-GameNotice
 
 ## Recent Announcements
-[Ver.5.7「あなたがいる時空」最新情報！](log/21195.md)
+[【原神】オリジナルゲームサウンドトラックEP『Star Odyssey』正式リリース](log/21189.md)  
+[バージョン満足度アンケート調査実施中](log/21203.md)
 <end>
 
 ## Usage
