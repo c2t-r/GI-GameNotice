@@ -1,7 +1,7 @@
 # GI-GameNotice
 
 ## Recent Announcements
-[原神専用ツールにどんな更新があったか早速チェックしよう！](log/21191.md)
+[アップデートと調整](log/21228.md)
 <end>
 
 ## Usage
