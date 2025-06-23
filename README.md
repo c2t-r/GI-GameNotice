@@ -1,7 +1,7 @@
 # GI-GameNotice
 
 ## Recent Announcements
-[「無限投擲シミュレーション」——『原神』新キャラクター「スカーク」のWebイベント開催！](log/21182.md)
+[イベント「幽境の激戦」：乱れた地脈に挑戦](log/21168.md)
 <end>
 
 ## Usage
