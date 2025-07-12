@@ -1,7 +1,7 @@
 # GI-GameNotice
 
 ## Recent Announcements
-[イベントアンケート調査実施中](log/21246.md)
+[イベント「追憶練行・死闘編」：マルチ挑戦を楽しもう](log/21172.md)
 <end>
 
 ## Usage
