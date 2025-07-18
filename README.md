@@ -1,7 +1,7 @@
 # GI-GameNotice
 
 ## Recent Announcements
-[イベント「追憶練行・死闘編」：マルチ挑戦を楽しもう](log/21172.md)
+[Ver.5.8「染夏！烈日？リゾート満喫！」最新情報！](log/21251.md)
 <end>
 
 ## Usage
