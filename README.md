@@ -1,7 +1,7 @@
 # GI-GameNotice
 
 ## Recent Announcements
-[Ver.5.8「染夏！烈日？リゾート満喫！」最新情報！](log/21251.md)
+[イベント「ハチャメチャ・カラフルバズーカ」：大砲で魔物を討伐しよう](log/21173.md)
 <end>
 
 ## Usage
