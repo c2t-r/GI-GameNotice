@@ -1,7 +1,8 @@
 # GI-GameNotice
 
 ## Recent Announcements
-[イベント「ハチャメチャ・カラフルバズーカ」：大砲で魔物を討伐しよう](log/21173.md)
+[『原神』公式PVテーマOST4.0『流星の軌跡Vol. 4』が正式リリース](log/21248.md)  
+[バージョン満足度アンケート調査実施中](log/21255.md)
 <end>
 
 ## Usage
