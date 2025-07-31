@@ -1,8 +1,7 @@
 # GI-GameNotice
 
 ## Recent Announcements
-[Ver.5.8最新情報一覧](log/21267.md)  
-[Ver.5.8「染夏！烈日？リゾート満喫！」正式リリース](log/21244.md)
+[アップデートと調整](log/21274.md)
 <end>
 
 ## Usage
