@@ -1,7 +1,7 @@
 # GI-GameNotice
 
 ## Recent Announcements
-[アップデートと調整](log/21274.md)
+[HoYoLAB-「ログインボーナス」機能について](log/21272.md)
 <end>
 
 ## Usage
