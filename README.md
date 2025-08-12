@@ -1,7 +1,7 @@
 # GI-GameNotice
 
 ## Recent Announcements
-[HoYoLAB-「ログインボーナス」機能について](log/21272.md)
+[イベント「密かな追跡」：犯罪グループを追え！](log/21239.md)
 <end>
 
 ## Usage
