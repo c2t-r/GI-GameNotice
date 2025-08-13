@@ -1,7 +1,7 @@
 # GI-GameNotice
 
 ## Recent Announcements
-[イベント「密かな追跡」：犯罪グループを追え！](log/21239.md)
+[『原神』Ver.5.0回顧テーマOST『真珠の歌5 The Shimmering Voyage Vol. 5』正式リリース](log/21265.md)
 <end>
 
 ## Usage
