@@ -1,7 +1,9 @@
 # GI-GameNotice
 
 ## Recent Announcements
-[『原神』Ver.5.0回顧テーマOST『真珠の歌5 The Shimmering Voyage Vol. 5』正式リリース](log/21265.md)
+[イベント祈願「波追いのサメ」：「ざぶざぶウェーブチェイサー・ムアラニ（水）」確率UP！](log/21240.md)  
+[イベント祈願「紅を散らす矢羽」：「巡空の裁翼・チャスカ（風）」確率UP！](log/21241.md)  
+[イベント祈願「神鋳賦形」：「法器・サーフィンタイム」「弓・星鷲の紅き羽」確率UP！](log/21242.md)
 <end>
 
 ## Usage
