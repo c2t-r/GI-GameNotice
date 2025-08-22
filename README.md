@@ -1,7 +1,7 @@
 # GI-GameNotice
 
 ## Recent Announcements
-[イベント「テイワットの思い出・銀世界へのプレリュード」：思い出を写真に残す旅](log/21243.md)
+[イベントアンケート調査実施中](log/21309.md)
 <end>
 
 ## Usage
