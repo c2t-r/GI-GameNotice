@@ -1,9 +1,7 @@
 # GI-GameNotice
 
 ## Recent Announcements
-[「ナド・クライの幕開け」——『原神』Webイベント開催！](log/21300.md)  
-[「Luna Ⅰ 白銀の浪と蒼林の舞」最新情報！](log/21314.md)  
-[初回チャージ2倍ボーナスリセットのお知らせ](log/21275.md)
+[【原神】ナド・クライ LIVE MUSIC VIDEO 正式リリース](log/21311.md)
 <end>
 
 ## Usage
