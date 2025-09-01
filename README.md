@@ -1,7 +1,7 @@
 # GI-GameNotice
 
 ## Recent Announcements
-[【原神】ナド・クライ LIVE MUSIC VIDEO 正式リリース](log/21311.md)
+[HoYoLAB-「ログインボーナス」機能について](log/21322.md)
 <end>
 
 ## Usage
