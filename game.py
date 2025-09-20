@@ -70,7 +70,7 @@ async def game(settings) -> tuple[bool, list[dict]]:
                 embed["fields"].append({"name": "", "value": s})
             if len(splitcontent) > 3:
                 embed["fields"].append(
-                    {"name": "", "value": f'[see more...]({f'https://github.com/{repo}/tree/main/log/{ann["ann_id"]}.md'})'})
+                    {"name": "", "value": f'[see more...](https://github.com/{repo}/tree/main/log/{ann["ann_id"]}.md)'})
         else:
             print("it doesn't match any content.")
             raise KeyError()  # for now
