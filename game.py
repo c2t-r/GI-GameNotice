@@ -60,7 +60,7 @@ async def game(settings) -> tuple[bool, list[dict]]:
             data.update(ann["ann_id"], ann_content)
 
             added_list.append(
-                f'[{ann_content["title"]}](log/{ann_content["ann_id"]}.md)')
+                f'[{ann_content["title"]}](log/{ann["ann_id"]}.md)')
 
             text = util.embUrl(ann_content["content"])
             text = md(text)
