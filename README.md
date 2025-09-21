@@ -1,8 +1,7 @@
 # GI-GameNotice
 
 ## Recent Announcements
-[「空月の歌・続奏」白銀の浪と蒼林の舞——「Luna Ⅰ」バージョン正式リリース](log/21302.md)  
-[「鍛錬の道」：努力の褒賞](log/21325.md)
+[HoYoFair2025 原神ファンフェス番組「境界越え彼方へ至る」](log/21333.md)
 <end>
 
 ## Usage
