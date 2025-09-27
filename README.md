@@ -1,7 +1,7 @@
 # GI-GameNotice
 
 ## Recent Announcements
-[『原神』5周年記念テーマソングPV正式リリース](log/21351.md)
+[イベント「ドドコドッカン大乱闘」：マルチ挑戦を楽しもう](log/21289.md)
 <end>
 
 ## Usage
