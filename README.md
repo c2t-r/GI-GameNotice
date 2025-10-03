@@ -1,7 +1,7 @@
 # GI-GameNotice
 
 ## Recent Announcements
-[「星の返還」システムメンテナンスについて](log/21353.md)
+[イベントアンケート調査実施中](log/21376.md)
 <end>
 
 ## Usage
