@@ -1,7 +1,7 @@
 # GI-GameNotice
 
 ## Recent Announcements
-[イベントアンケート調査実施中](log/21376.md)
+[イベント「旅の写真に輝きを」：冒険の瞬間を写真に残そう](log/21293.md)
 <end>
 
 ## Usage
