@@ -1,8 +1,7 @@
 # GI-GameNotice
 
 ## Recent Announcements
-[「Luna Ⅱ 消えた月光に想いを馳せて」最新情報！](log/21379.md)  
-[星々の幻境 Webイベント「星々を発つ約束」が始まりました。イベントに参加すると、原石やドール衣装を獲得できます！](log/21354.md)
+[『原神』ナド・クライOST『夕暮れを照らす月 Outside It Is Growing Dark』正式リリース](log/21385.md)
 <end>
 
 ## Usage
