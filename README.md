@@ -1,7 +1,7 @@
 # GI-GameNotice
 
 ## Recent Announcements
-[『原神』ナド・クライOST『夕暮れを照らす月 Outside It Is Growing Dark』正式リリース](log/21385.md)
+[バージョン満足度アンケート調査実施中](log/21394.md)
 <end>
 
 ## Usage
