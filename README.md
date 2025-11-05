@@ -1,7 +1,7 @@
 # GI-GameNotice
 
 ## Recent Announcements
-[HoYoLAB-「ログインボーナス」機能について](log/21449.md)
+[イベント「遺跡を探検？知行合一プロジェクト！」：「純真を抱く萌蘖・コレイ（草）」を招待可能](log/21367.md)
 <end>
 
 ## Usage
