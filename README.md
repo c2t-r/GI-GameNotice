@@ -1,7 +1,7 @@
 # GI-GameNotice
 
 ## Recent Announcements
-[イベント「遺跡を探検？知行合一プロジェクト！」：「純真を抱く萌蘖・コレイ（草）」を招待可能](log/21367.md)
+[「七聖召喚」熱闘モード：オートメーション対局](log/21368.md)
 <end>
 
 ## Usage
