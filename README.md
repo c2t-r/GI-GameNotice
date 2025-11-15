@@ -1,7 +1,7 @@
 # GI-GameNotice
 
 ## Recent Announcements
-[イベントアンケート調査実施中](log/21457.md)
+[イベント「リズムビートパーティー」：わいわいダンス挑戦！](log/21372.md)
 <end>
 
 ## Usage
