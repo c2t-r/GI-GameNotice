@@ -1,7 +1,7 @@
 # GI-GameNotice
 
 ## Recent Announcements
-[イベント「リズムビートパーティー」：わいわいダンス挑戦！](log/21372.md)
+[【原神】「Luna Ⅲ 北の果ての夜想詩」最新情報！](log/21461.md)
 <end>
 
 ## Usage
