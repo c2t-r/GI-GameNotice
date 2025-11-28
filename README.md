@@ -1,7 +1,7 @@
 # GI-GameNotice
 
 ## Recent Announcements
-[【原神】「Luna Ⅲ 北の果ての夜想詩」最新情報！](log/21461.md)
+[バージョン満足度アンケート調査実施中](log/21478.md)
 <end>
 
 ## Usage
