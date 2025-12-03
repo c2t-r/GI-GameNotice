@@ -1,8 +1,7 @@
 # GI-GameNotice
 
 ## Recent Announcements
-[イベント「カラコロ！チュンボール」：新たなチュンボールに挑戦](log/21438.md)  
-[アップデートと調整](log/21507.md)
+[原神「Luna Ⅲ」のツールが更新！](log/21462.md)
 <end>
 
 ## Usage
