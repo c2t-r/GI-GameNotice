@@ -1,7 +1,9 @@
 # GI-GameNotice
 
 ## Recent Announcements
-[HoYoLAB-「ログインボーナス」機能について](log/21494.md)
+[「Luna Ⅲ」最新情報一覧](log/21495.md)  
+[「空月の歌・間奏」北の果ての夜想詩——「Luna Ⅲ」正式リリース](log/21459.md)  
+[「星々の幻境」プレイに関するルール](log/21455.md)
 <end>
 
 ## Usage
