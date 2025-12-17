@@ -1,7 +1,7 @@
 # GI-GameNotice
 
 ## Recent Announcements
-[原神「Luna Ⅲ」のツールが更新！](log/21462.md)
+[イベント「魂を炎やす戦士の雪の旅」：限定武器「弓・虹蛇の雨弦」を獲得可能](log/21439.md)
 <end>
 
 ## Usage
