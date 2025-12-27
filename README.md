@@ -1,7 +1,8 @@
 # GI-GameNotice
 
 ## Recent Announcements
-[【原神】Webイベント「聖なる夜の幻境パーティー」開催！](log/21470.md)
+[イベント「勇気を競え！竜バトル」：マルチ挑戦を楽しもう](log/21443.md)  
+[ログインエラーの不具合修正について](log/21545.md)
 <end>
 
 ## Usage
