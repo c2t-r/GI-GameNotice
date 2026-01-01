@@ -1,7 +1,7 @@
 # GI-GameNotice
 
 ## Recent Announcements
-[Webイベント「月の思い出を拾って」開催！「月の少女」との思い出の解放と新バージョンのチェックで、最大で原石×160を獲得！](log/21481.md)
+[HoYoLAB-「ログインボーナス」機能について](log/21548.md)
 <end>
 
 ## Usage
