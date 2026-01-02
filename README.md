@@ -1,7 +1,7 @@
 # GI-GameNotice
 
 ## Recent Announcements
-[HoYoLAB-「ログインボーナス」機能について](log/21548.md)
+[【原神】「Luna Ⅳ 冬の夜、ある旅人が」最新情報！](log/21544.md)
 <end>
 
 ## Usage
