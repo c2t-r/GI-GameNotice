@@ -1,7 +1,7 @@
 # GI-GameNotice
 
 ## Recent Announcements
-[【原神】「Luna Ⅳ 冬の夜、ある旅人が」最新情報！](log/21544.md)
+[イベント「百貨珍品」：珍品の箱を開けて原石を獲得](log/20191.md)
 <end>
 
 ## Usage
