@@ -1,7 +1,7 @@
 # GI-GameNotice
 
 ## Recent Announcements
-[イベント「百貨珍品」：珍品の箱を開けて原石を獲得](log/20191.md)
+[バージョン満足度アンケート調査実施中](log/21550.md)
 <end>
 
 ## Usage
