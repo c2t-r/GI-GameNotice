@@ -1,7 +1,7 @@
 # GI-GameNotice
 
 ## Recent Announcements
-[『原神』6枚目となるキャラクターテーマOST「輝く星々Vol. 6 The Stellar Moments Vol. 6」正式リリース](log/21561.md)
+[イベント「天を翔ける玉輪の軌跡」：ヨォーヨのコスチュームと璃月★4キャラクターを獲得可能](log/21524.md)
 <end>
 
 ## Usage
