@@ -1,7 +1,7 @@
 # GI-GameNotice
 
 ## Recent Announcements
-[イベント「出会いのプレゼント」に参加して原石をゲット！](log/21599.md)
+[『原神』オリジナルゲームサウンドトラックEP「霄灯、明月を写す When Lanterns Echo the Moon」正式リリース](log/21594.md)
 <end>
 
 ## Usage
