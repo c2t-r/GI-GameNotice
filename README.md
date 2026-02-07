@@ -1,7 +1,8 @@
 # GI-GameNotice
 
 ## Recent Announcements
-[『原神』オリジナルゲームサウンドトラックEP「霄灯、明月を写す When Lanterns Echo the Moon」正式リリース](log/21594.md)
+[イベント「巡月演習」：戦闘演習ゲーム](log/21525.md)  
+[「輝く星々の漫遊・旅立ち」に参加して多彩なサプライズボックスの通貨「煌めく結晶」を獲得しよう](log/21529.md)
 <end>
 
 ## Usage
