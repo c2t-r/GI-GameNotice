@@ -1,7 +1,7 @@
 # GI-GameNotice
 
 ## Recent Announcements
-[海灯祭を盛り上げよう！トピックに参加すると必ず報酬を獲得！](log/21542.md)
+[「Luna Ⅴ 風を捕まえる帰郷者」最新情報！](log/21597.md)
 <end>
 
 ## Usage
