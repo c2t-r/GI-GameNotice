@@ -1,7 +1,7 @@
 # GI-GameNotice
 
 ## Recent Announcements
-[「Luna Ⅴ 風を捕まえる帰郷者」最新情報！](log/21597.md)
+[バージョン満足度アンケート調査実施中](log/21606.md)
 <end>
 
 ## Usage
