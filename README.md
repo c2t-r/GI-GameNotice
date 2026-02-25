@@ -1,8 +1,7 @@
 # GI-GameNotice
 
 ## Recent Announcements
-[「Luna Ⅴ」最新情報一覧](log/21618.md)  
-[「空月の歌・変奏」風を捕まえる帰郷者——「Luna Ⅴ」正式リリース](log/21617.md)
+[イベント「風を捕まえる帰郷者」：イベント限定武器外観「幻のギフト・スターオーメン」を獲得可能](log/21588.md)
 <end>
 
 ## Usage
