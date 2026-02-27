@@ -1,7 +1,7 @@
 # GI-GameNotice
 
 ## Recent Announcements
-[イベント「風を捕まえる帰郷者」：イベント限定武器外観「幻のギフト・スターオーメン」を獲得可能](log/21588.md)
+[アップデートと調整](log/21626.md)
 <end>
 
 ## Usage
