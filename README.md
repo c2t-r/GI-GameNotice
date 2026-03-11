@@ -1,7 +1,7 @@
 # GI-GameNotice
 
 ## Recent Announcements
-[アップデートと調整](log/21626.md)
+[『原神』ナド・クライOST 第2弾『朔望を待つ庭 Where Roads Are Pledged to Cross』正式リリース](log/21627.md)
 <end>
 
 ## Usage
