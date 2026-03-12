@@ -1,7 +1,9 @@
 # GI-GameNotice
 
 ## Recent Announcements
-[『原神』ナド・クライOST 第2弾『朔望を待つ庭 Where Roads Are Pledged to Cross』正式リリース](log/21627.md)
+[イベント祈願「虚星の来臨」：「虚淵の暗星・スカーク（氷）」確率UP！](log/21590.md)  
+[イベント祈願「苺色のシャンソン」：「絢爛のフレーバー・エスコフィエ（氷）」確率UP！](log/21591.md)  
+[イベント祈願「神鋳賦形」：「片手剣・蒼耀」「長柄武器・香りのシンフォニスト」確率UP！](log/21592.md)
 <end>
 
 ## Usage
