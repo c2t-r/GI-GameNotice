@@ -1,8 +1,7 @@
 # GI-GameNotice
 
 ## Recent Announcements
-[イベント「拠点防衛戦」：拠点を死守せよ！](log/21593.md)  
-[「輝く星々の漫遊・躍進」に参加して多彩なサプライズボックスの通貨「煌めく結晶」を獲得しよう](log/21579.md)
+[HoYoLAB-「ログインボーナス」機能について](log/21661.md)
 <end>
 
 ## Usage
