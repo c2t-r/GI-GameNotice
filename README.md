@@ -1,7 +1,7 @@
 # GI-GameNotice
 
 ## Recent Announcements
-[イベント「フラッシュ・キャプチャー！」：素早く映影を制作しよう](log/21645.md)
+[バージョン満足度アンケート調査実施中](log/21717.md)
 <end>
 
 ## Usage
