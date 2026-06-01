@@ -1,8 +1,7 @@
 # GI-GameNotice
 
 ## Recent Announcements
-[「魔女ニコのお茶会」——『原神』Webイベント開催！](log/21711.md)  
-[イベント「空想の友と巡る旅」：イベント限定武器外観「マジカルマジックキー」を獲得可能](log/21698.md)
+[HoYoLAB-「ログインボーナス」機能について](log/21746.md)
 <end>
 
 ## Usage
