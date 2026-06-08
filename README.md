@@ -1,7 +1,7 @@
 # GI-GameNotice
 
 ## Recent Announcements
-[イベント「勇猛なる戦士の試練」：剣術大会](log/21700.md)
+[「彩星の贈り物」に参加して原石を獲得しよう](log/21689.md)
 <end>
 
 ## Usage
