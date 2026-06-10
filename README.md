@@ -1,7 +1,7 @@
 # GI-GameNotice
 
 ## Recent Announcements
-[「彩星の贈り物」に参加して原石を獲得しよう](log/21689.md)
+[期間限定Webイベント「運動の時間だ！」開催！原石や再現群晶をゲットしよう](log/21709.md)
 <end>
 
 ## Usage
