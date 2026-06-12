@@ -1,7 +1,7 @@
 # GI-GameNotice
 
 ## Recent Announcements
-[期間限定Webイベント「運動の時間だ！」開催！原石や再現群晶をゲットしよう](log/21709.md)
+[ログイン異常について](log/21773.md)
 <end>
 
 ## Usage
