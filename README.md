@@ -1,7 +1,7 @@
 # GI-GameNotice
 
 ## Recent Announcements
-[ログイン異常について](log/21773.md)
+[「輝く星々の漫遊・韻律」に参加して多彩なサプライズボックスの通貨「煌めく結晶」を獲得しよう](log/21688.md)
 <end>
 
 ## Usage
