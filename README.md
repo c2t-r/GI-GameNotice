@@ -1,8 +1,7 @@
 # GI-GameNotice
 
 ## Recent Announcements
-[イベント「カラフル追撃戦」：絵の具収集チャレンジ](log/21705.md)  
-[ログイン異常について](log/21776.md)
+[バージョン満足度アンケート調査実施中](log/21782.md)
 <end>
 
 ## Usage
