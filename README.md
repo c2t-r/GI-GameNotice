@@ -1,9 +1,7 @@
 # GI-GameNotice
 
 ## Recent Announcements
-[アップデートと調整](log/21797.md)  
-[「Luna Ⅷ」最新情報一覧](log/21788.md)  
-[「『空月の歌・喜曲』帰夏！映影？千霊祭！」「Luna Ⅷ」正式リリース](log/21789.md)
+[HoYoLAB-「ログインボーナス」機能について](log/21784.md)
 <end>
 
 ## Usage
