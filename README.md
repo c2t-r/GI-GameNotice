@@ -1,7 +1,7 @@
 # GI-GameNotice
 
 ## Recent Announcements
-[HoYoLAB-「ログインボーナス」機能について](log/21784.md)
+[『原神』公式PVテーマOST5.0『流星の軌跡 Vol.5』正式リリース](log/21768.md)
 <end>
 
 ## Usage
