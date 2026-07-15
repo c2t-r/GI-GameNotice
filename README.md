@@ -1,7 +1,7 @@
 # GI-GameNotice
 
 ## Recent Announcements
-[『原神』公式PVテーマOST5.0『流星の軌跡 Vol.5』正式リリース](log/21768.md)
+[イベント「狙え！ロングショット」：射撃演習](log/21756.md)
 <end>
 
 ## Usage
