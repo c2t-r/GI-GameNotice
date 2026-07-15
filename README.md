@@ -1,7 +1,7 @@
 # GI-GameNotice
 
 ## Recent Announcements
-[イベント「狙え！ロングショット」：射撃演習](log/21756.md)
+[「幻境で夏の思い出を作ろう！」7月15日 星々の幻境の夏のWebイベントに参加して報酬をゲットしよう！](log/21774.md)
 <end>
 
 ## Usage
