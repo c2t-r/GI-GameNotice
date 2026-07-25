@@ -1,8 +1,7 @@
 # GI-GameNotice
 
 ## Recent Announcements
-[【原神】「空月の歌」回顧テーマOST『真珠の歌6 The Shimmering Voyage Vol. 6』正式リリース](log/21801.md)  
-[イベント「まったりリズムビートパーティー」：わいわいダンス挑戦！](log/21760.md)
+[「輝く星々の漫遊・燦爛」に参加して多彩なサプライズボックスの通貨「煌めく結晶」を獲得しよう](log/21764.md)
 <end>
 
 ## Usage
