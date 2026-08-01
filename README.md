@@ -1,7 +1,8 @@
 # GI-GameNotice
 
 ## Recent Announcements
-[Webイベント「スネージナヤが来る！」開催！テイワットでの旅を振り返り、新バージョンをチェックすると、最大で原石×80を獲得！](log/21771.md)
+[HoYoLAB-「ログインボーナス」機能について](log/21838.md)  
+[【原神】スネージナヤ LIVE MUSIC VIDEO（オーケストラ編成）正式リリース](log/21826.md)
 <end>
 
 ## Usage
