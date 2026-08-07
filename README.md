@@ -1,8 +1,7 @@
 # GI-GameNotice
 
 ## Recent Announcements
-[HoYoLAB-「ログインボーナス」機能について](log/21838.md)  
-[【原神】スネージナヤ LIVE MUSIC VIDEO（オーケストラ編成）正式リリース](log/21826.md)
+[バージョン満足度アンケート調査実施中](log/21844.md)
 <end>
 
 ## Usage
