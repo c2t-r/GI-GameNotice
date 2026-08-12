@@ -1,8 +1,7 @@
 # GI-GameNotice
 
 ## Recent Announcements
-[Webイベント「スネージナヤの旅ガイド」開催！参加すると原石が必ずもらえる！](log/21798.md)  
-[アップデートと調整](log/21865.md)
+[アップデートと調整](log/21866.md)
 <end>
 
 ## Usage
