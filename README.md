@@ -1,7 +1,7 @@
 # GI-GameNotice
 
 ## Recent Announcements
-[アップデートと調整](log/21866.md)
+[アップデートと調整](log/21869.md)
 <end>
 
 ## Usage
