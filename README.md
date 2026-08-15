@@ -1,7 +1,7 @@
 # GI-GameNotice
 
 ## Recent Announcements
-[アップデートと調整](log/21869.md)
+[「夏のゾクゾク大冒険」参加でおしゃれアイテム「ふよふよオバケ」を獲得可能](log/21829.md)
 <end>
 
 ## Usage
