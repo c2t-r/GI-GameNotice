@@ -1,7 +1,7 @@
 # GI-GameNotice
 
 ## Recent Announcements
-[「夏のゾクゾク大冒険」参加でおしゃれアイテム「ふよふよオバケ」を獲得可能](log/21829.md)
+[イベント「幽境の激戦」：乱れた地脈に挑戦](log/21847.md)
 <end>
 
 ## Usage
