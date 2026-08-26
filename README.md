@@ -1,7 +1,7 @@
 # GI-GameNotice
 
 ## Recent Announcements
-[イベント「幽境の激戦」：乱れた地脈に挑戦](log/21847.md)
+[イベント「冒険者競技大会」：「キャッツテールスペシャル・ディオナ（氷）」を招待可能](log/21813.md)
 <end>
 
 ## Usage
