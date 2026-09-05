@@ -1,7 +1,8 @@
 # GI-GameNotice
 
 ## Recent Announcements
-[HoYoLAB-「ログインボーナス」機能について](log/21903.md)
+[イベント「禁域陣取り合戦」：陣地防衛チャレンジ](log/21816.md)  
+[「輝く星々の漫遊・平穏」に参加して多彩なサプライズボックスの通貨「煌めく結晶」を獲得しよう](log/21831.md)
 <end>
 
 ## Usage
