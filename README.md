@@ -1,8 +1,7 @@
 # GI-GameNotice
 
 ## Recent Announcements
-[初回チャージ2倍ボーナスリセットのお知らせ](log/3802.md)  
-[Ver.7.1報酬一覧](log/21923.md)
+[『原神』スネージナヤOST『憐憫と慈悲の果てに Where Mercy Endures』正式リリース](log/21914.md)
 <end>
 
 ## Usage
