@@ -1,7 +1,7 @@
 # GI-GameNotice
 
 ## Recent Announcements
-[『原神』スネージナヤOST『憐憫と慈悲の果てに Where Mercy Endures』正式リリース](log/21914.md)
+[バージョン満足度アンケート調査実施中](log/21926.md)
 <end>
 
 ## Usage
