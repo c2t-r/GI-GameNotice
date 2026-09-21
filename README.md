@@ -1,7 +1,7 @@
 # GI-GameNotice
 
 ## Recent Announcements
-[バージョン満足度アンケート調査実施中](log/21926.md)
+[HoYoFair2026 原神ファンフェス番組「北国急行プロジェクト」](log/21905.md)
 <end>
 
 ## Usage
