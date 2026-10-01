@@ -1,7 +1,7 @@
 # GI-GameNotice
 
 ## Recent Announcements
-[『原神』6周年記念テーマソングPV正式リリース](log/21940.md)
+[HoYoLAB-「ログインボーナス」機能について](log/21986.md)
 <end>
 
 ## Usage
