@@ -1,7 +1,7 @@
 # GI-GameNotice
 
 ## Recent Announcements
-[イベント「勝者は誰だ！？」で戦況を予測しよう！](log/21887.md)
+[「輝く星々の漫遊・満喫」に参加して多彩なサプライズボックスの通貨「煌めく結晶」を獲得しよう](log/21901.md)
 <end>
 
 ## Usage
