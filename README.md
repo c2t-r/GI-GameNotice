@@ -1,7 +1,7 @@
 # GI-GameNotice
 
 ## Recent Announcements
-[イベント「自由気ままな雪合戦」：思いっきり投げて楽しもう](log/21891.md)
+[Webイベント「星々の宴」で、幻境の思い出を振り返りましょう！](log/21908.md)
 <end>
 
 ## Usage
