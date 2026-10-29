@@ -1,7 +1,7 @@
 # GI-GameNotice
 
 ## Recent Announcements
-[Webイベント「星々の宴」で、幻境の思い出を振り返りましょう！](log/21908.md)
+[フィッシングサイトにご注意ください](log/22008.md)
 <end>
 
 ## Usage
