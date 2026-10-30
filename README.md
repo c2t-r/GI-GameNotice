@@ -1,7 +1,7 @@
 # GI-GameNotice
 
 ## Recent Announcements
-[フィッシングサイトにご注意ください](log/22008.md)
+[バージョン満足度アンケート調査実施中](log/22005.md)
 <end>
 
 ## Usage
