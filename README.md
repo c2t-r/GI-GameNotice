@@ -1,7 +1,7 @@
 # GI-GameNotice
 
 ## Recent Announcements
-[バージョン満足度アンケート調査実施中](log/22005.md)
+[「鍛錬の道」：努力の褒賞](log/21892.md)
 <end>
 
 ## Usage
