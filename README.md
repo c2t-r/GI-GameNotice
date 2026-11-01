@@ -1,7 +1,7 @@
 # GI-GameNotice
 
 ## Recent Announcements
-[「鍛錬の道」：努力の褒賞](log/21892.md)
+[HoYoLAB-「ログインボーナス」機能について](log/22006.md)
 <end>
 
 ## Usage
