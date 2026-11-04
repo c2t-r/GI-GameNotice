@@ -1,9 +1,7 @@
 # GI-GameNotice
 
 ## Recent Announcements
-[「星々の創作コンテスト・幻境メモリアル」開催！](log/21999.md)  
-[Ver.7.2最新情報一覧](log/22011.md)  
-[Ver.7.2「終焉へ墜ちる時」正式リリース](log/21988.md)
+[アップデートと調整](log/22031.md)
 <end>
 
 ## Usage
