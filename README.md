@@ -1,7 +1,7 @@
 # GI-GameNotice
 
 ## Recent Announcements
-[アップデートと調整](log/22031.md)
+[イベント「ブロックスマッシュ・リフレッシュ」：掘り進みチャレンジ](log/21978.md)
 <end>
 
 ## Usage
