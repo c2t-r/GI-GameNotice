@@ -1,7 +1,7 @@
 # GI-GameNotice
 
 ## Recent Announcements
-[イベント「凛影の記録」：写真撮影チャレンジ](log/21979.md)
+[Webイベント「幻境メモリアル」開催！参加して期間限定報酬を獲得しよう！](log/22032.md)
 <end>
 
 ## Usage
